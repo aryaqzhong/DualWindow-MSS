@@ -1,0 +1,5 @@
+# One prespecified learning-rate check; architecture and all other settings unchanged.
+inherit: E_sym128_compute.yaml
+name: E_sym128_compute_lr3e4
+train:
+  lr: 3.0e-4

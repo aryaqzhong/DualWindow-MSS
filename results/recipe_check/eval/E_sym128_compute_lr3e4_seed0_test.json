@@ -1,0 +1,21 @@
+{
+  "checkpoint_sha256": "e82a640f86d51b1514cde175faabb1df0c2d5fd2a5154341f3fa2aaa1a17da30",
+  "ckpt": "best.pt",
+  "config": "E_sym128_compute_lr3e4",
+  "csv_sha256": "b62b4a3324d1db3cff9261b925cfb1ee1208b818219f0810ae240045e94996be",
+  "device": "cuda",
+  "evaluation_amendment_sha256": "04a3d87be8245f55e5d79274a7c2f65468206c48cebfb52df2426e39d4cfec9b",
+  "evaluation_launcher_sha256": "b446dee1eeea735cca864480113fd58a3a92797e258732a855663a224ac2f676",
+  "evaluation_precision": {
+    "cudnn_allow_tf32": false,
+    "matmul_allow_tf32": false
+  },
+  "evaluation_torch_version": "2.15.0+cu132",
+  "evaluation_utc": "2026-11-11T18:00:03.375735+00:00",
+  "n_tracks": 50,
+  "seed": 0,
+  "selection_sha256": "88df9bb350caa8d2aa92abdc4f4806804a147985c908fdd4d4de21d4a4ce79d9",
+  "slurm_job_id": "redacted",
+  "step": 175000,
+  "subset": "test"
+}

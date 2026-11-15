@@ -1,0 +1,6 @@
+# Symmetric baseline for D at 2.9 ms (the counterpart of B at 5.8 ms): only the analysis window differs from D.
+inherit: base.yaml
+name: E_sym128
+stft:
+  n_analysis: 128    # 2.9 ms algorithmic latency, hop 64
+  n_synthesis: 128

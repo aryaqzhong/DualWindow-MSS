@@ -1,0 +1,5 @@
+# Exploratory baseline learning-rate check (results/baseline_lr_check/design.md); only the rate changes.
+inherit: E_sym128.yaml
+name: E_sym128_lr3e4
+train:
+  lr: 3.0e-4

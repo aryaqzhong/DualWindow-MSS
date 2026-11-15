@@ -1,0 +1,6 @@
+# MAC-matched to D_dual_2p9ms before training; scripts/select_compute_matched.py.
+# Fixed grid 256:8:1024, nearest MAC count: -0.2456% vs 5.838 MMAC/frame.
+inherit: E_sym128.yaml
+name: E_sym128_compute
+model:
+  hidden: 800

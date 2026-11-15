@@ -1,0 +1,13 @@
+{
+  "model": "htdemucs (demucs 4.0.1)",
+  "params": 41984456,
+  "input": "mono mixture duplicated to stereo",
+  "device": "cuda",
+  "tracks": 50,
+  "si_sdr_median": 8.491880364417668,
+  "si_sdr_mean": 7.864594492361019,
+  "si_sdri_median": 15.03954264364673,
+  "si_sdri_mean": 14.57559522994506,
+  "usdr_median": 9.037495690319169,
+  "usdr_mean": 8.681046079069425
+}

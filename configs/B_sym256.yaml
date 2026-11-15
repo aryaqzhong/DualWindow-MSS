@@ -1,0 +1,5 @@
+inherit: base.yaml
+name: B_sym256
+stft:
+  n_analysis: 256    # 5.8 ms algorithmic latency, hop 128
+  n_synthesis: 256

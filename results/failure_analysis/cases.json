@@ -1,0 +1,143 @@
+{
+  "cases": [
+    {
+      "first": "C_dual",
+      "pair": "C \u2212 B at 5.8 ms",
+      "saved_full_gain_db": -2.7310583542211324,
+      "second": "B_sym256",
+      "selection": "worst_1",
+      "track": "PR - Oh No"
+    },
+    {
+      "first": "C_dual",
+      "pair": "C \u2212 B at 5.8 ms",
+      "saved_full_gain_db": -2.246377673688986,
+      "second": "B_sym256",
+      "selection": "worst_2",
+      "track": "PR - Happy Daze"
+    },
+    {
+      "first": "C_dual",
+      "pair": "C \u2212 B at 5.8 ms",
+      "saved_full_gain_db": -0.2913389619965234,
+      "second": "B_sym256",
+      "selection": "worst_3",
+      "track": "Detsky Sad - Walkie Talkie"
+    },
+    {
+      "first": "C_dual",
+      "pair": "C \u2212 B at 5.8 ms",
+      "saved_full_gain_db": -0.19966599182533096,
+      "second": "B_sym256",
+      "selection": "worst_4",
+      "track": "The Easton Ellises - Falcon 69"
+    },
+    {
+      "first": "C_dual",
+      "pair": "C \u2212 B at 5.8 ms",
+      "saved_full_gain_db": -0.10068257591358543,
+      "second": "B_sym256",
+      "selection": "worst_5",
+      "track": "Buitraker - Revo X"
+    },
+    {
+      "first": "C_dual",
+      "pair": "C \u2212 B at 5.8 ms",
+      "saved_full_gain_db": 0.5513739645061211,
+      "second": "B_sym256",
+      "selection": "positive_rank_quantile_0.25",
+      "track": "Angels In Amplifiers - I'm Alright"
+    },
+    {
+      "first": "C_dual",
+      "pair": "C \u2212 B at 5.8 ms",
+      "saved_full_gain_db": 0.806560205498005,
+      "second": "B_sym256",
+      "selection": "positive_rank_quantile_0.5",
+      "track": "BKS - Bulldozer"
+    },
+    {
+      "first": "C_dual",
+      "pair": "C \u2212 B at 5.8 ms",
+      "saved_full_gain_db": 1.0662246157491317,
+      "second": "B_sym256",
+      "selection": "positive_rank_quantile_0.75",
+      "track": "BKS - Too Much"
+    },
+    {
+      "first": "D_dual_2p9ms",
+      "pair": "D \u2212 E at 2.9 ms",
+      "saved_full_gain_db": -20.057651672903233,
+      "second": "E_sym128",
+      "selection": "worst_1",
+      "track": "PR - Happy Daze"
+    },
+    {
+      "first": "D_dual_2p9ms",
+      "pair": "D \u2212 E at 2.9 ms",
+      "saved_full_gain_db": -1.1831542233366055,
+      "second": "E_sym128",
+      "selection": "worst_2",
+      "track": "Detsky Sad - Walkie Talkie"
+    },
+    {
+      "first": "D_dual_2p9ms",
+      "pair": "D \u2212 E at 2.9 ms",
+      "saved_full_gain_db": -1.1353152245428273,
+      "second": "E_sym128",
+      "selection": "worst_3",
+      "track": "PR - Oh No"
+    },
+    {
+      "first": "D_dual_2p9ms",
+      "pair": "D \u2212 E at 2.9 ms",
+      "saved_full_gain_db": -0.40820001051484933,
+      "second": "E_sym128",
+      "selection": "worst_4",
+      "track": "Moosmusic - Big Dummy Shake"
+    },
+    {
+      "first": "D_dual_2p9ms",
+      "pair": "D \u2212 E at 2.9 ms",
+      "saved_full_gain_db": -0.04236115731104961,
+      "second": "E_sym128",
+      "selection": "worst_5",
+      "track": "Buitraker - Revo X"
+    },
+    {
+      "first": "D_dual_2p9ms",
+      "pair": "D \u2212 E at 2.9 ms",
+      "saved_full_gain_db": 0.5793251113013307,
+      "second": "E_sym128",
+      "selection": "positive_rank_quantile_0.25",
+      "track": "Mu - Too Bright"
+    },
+    {
+      "first": "D_dual_2p9ms",
+      "pair": "D \u2212 E at 2.9 ms",
+      "saved_full_gain_db": 0.8136650310502818,
+      "second": "E_sym128",
+      "selection": "positive_rank_quantile_0.5",
+      "track": "M.E.R.C. Music - Knockout"
+    },
+    {
+      "first": "D_dual_2p9ms",
+      "pair": "D \u2212 E at 2.9 ms",
+      "saved_full_gain_db": 1.0588677164278955,
+      "second": "E_sym128",
+      "selection": "positive_rank_quantile_0.75",
+      "track": "Speak Softly - Like Horses"
+    }
+  ],
+  "saved_eval_sha256": {
+    "B_sym256_seed0": "b867b4b81354bbbd93a32d91236e7f79129e3e48eb1e969bc831c03a9f8d492f",
+    "B_sym256_seed1": "538f06133de2963084e7b840f908f4c2d43a5e67d360d85bd89cf0029e788f91",
+    "C_dual_seed0": "6a7de9626811f8272b7ec405f833b8f3a6aa022dbec9db1756a681a871d511cb",
+    "C_dual_seed1": "8d6c85d975308bd4d189bb6b6261cae2b0e93fc68f7c8f04e408822098cd6016",
+    "D_dual_2p9ms_seed0": "1bc9b57fbad28f26cbf529c7a94daaf1d789888d6c5a89705d3fd1d2e9b41385",
+    "D_dual_2p9ms_seed1": "5da1311263e6ba28d0cef22255b5bfcab05b6301c2319cbc9789b624408eac54",
+    "E_sym128_seed0": "b463aebecf265fcb1757a6ec7c6a655b748bb91cf1d6cccd07faa6364a9fb140",
+    "E_sym128_seed1": "c64cfc0a121f2ff5da8d475c66408a0304555f9a41720db204666a99b7f1e6ff"
+  },
+  "selection": "five lowest full-song paired differences plus positive-gain 25/50/75th ranked quantiles, from frozen saved eval"
+}

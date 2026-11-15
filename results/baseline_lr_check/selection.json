@@ -1,0 +1,73 @@
+{
+  "rule": "per baseline: mean over seeds of each seed's best validation median SI-SDR; ties within 1e-9 dB keep 1e-3",
+  "latencies": {
+    "5.8 ms": {
+      "dual": "C_dual",
+      "candidates": {
+        "B_sym256": {
+          "lr": 0.001,
+          "seeds": {
+            "0": {
+              "best_step": 55000,
+              "best_val_si_sdr_median": 3.7290849271330275
+            },
+            "1": {
+              "best_step": 190000,
+              "best_val_si_sdr_median": 3.7798683395564736
+            }
+          },
+          "mean_best_val": 3.7544766333447503
+        },
+        "B_sym256_lr3e4": {
+          "lr": 0.0003,
+          "seeds": {
+            "0": {
+              "best_step": 175000,
+              "best_val_si_sdr_median": 3.7254707243320357
+            },
+            "1": {
+              "best_step": 85000,
+              "best_val_si_sdr_median": 3.4754764835849885
+            }
+          },
+          "mean_best_val": 3.600473603958512
+        }
+      },
+      "selected": "B_sym256"
+    },
+    "2.9 ms": {
+      "dual": "D_dual_2p9ms",
+      "candidates": {
+        "E_sym128": {
+          "lr": 0.001,
+          "seeds": {
+            "0": {
+              "best_step": 140000,
+              "best_val_si_sdr_median": 3.367916225740784
+            },
+            "1": {
+              "best_step": 180000,
+              "best_val_si_sdr_median": 3.3916658284837062
+            }
+          },
+          "mean_best_val": 3.379791027112245
+        },
+        "E_sym128_lr3e4": {
+          "lr": 0.0003,
+          "seeds": {
+            "0": {
+              "best_step": 105000,
+              "best_val_si_sdr_median": 3.282082385937706
+            },
+            "1": {
+              "best_step": 190000,
+              "best_val_si_sdr_median": 3.2157152171467285
+            }
+          },
+          "mean_best_val": 3.248898801542217
+        }
+      },
+      "selected": "E_sym128"
+    }
+  }
+}

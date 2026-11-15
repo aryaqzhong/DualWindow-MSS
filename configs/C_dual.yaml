@@ -1,0 +1,5 @@
+inherit: base.yaml
+name: C_dual
+stft:
+  n_analysis: 2048   # chosen on the validation tracks (results/oracle_validation.md)
+  n_synthesis: 256   # 5.8 ms algorithmic latency, hop 128

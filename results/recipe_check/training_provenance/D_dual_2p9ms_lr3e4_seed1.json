@@ -1,0 +1,14 @@
+{
+  "best_step": 130000,
+  "best_validation_median": 4.0396419665931065,
+  "config": "D_dual_2p9ms_lr3e4",
+  "hashes": {
+    "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+    "best.pt": "7ae9ae528a561e4c17856a2f5da3a3115494e3b61fb91264545c162480848ae6",
+    "last.pt": "6c630859ab0b70bdf82f428811c23c70c451f906adbf03c98666ad850a7eb323",
+    "log.jsonl": "82b53e9926a60cdc2eecc305d34fed9481fbd783f0c4af34d099c5a454cad3af",
+    "meta.json": "8053058d898f648721515eadf7724630ad9634523a61add8d669ecd777440ed6"
+  },
+  "run": "runs/D_dual_2p9ms_lr3e4_seed1",
+  "seed": 1
+}

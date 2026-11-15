@@ -1,0 +1,1221 @@
+{
+  "candidate_learning_rates": [
+    0.001,
+    0.0003
+  ],
+  "dataset_fingerprint_scope": "absolute paths, file sizes and nanosecond mtimes; not audio-content hashes",
+  "dataset_fingerprints": {
+    "data/musdb18hq/test/AM Contra - Heart Peripheral/bass.wav": {
+      "mtime_ns": 1513108846000000000,
+      "size": 37062700
+    },
+    "data/musdb18hq/test/AM Contra - Heart Peripheral/drums.wav": {
+      "mtime_ns": 1513108846000000000,
+      "size": 37062700
+    },
+    "data/musdb18hq/test/AM Contra - Heart Peripheral/other.wav": {
+      "mtime_ns": 1513108846000000000,
+      "size": 37062700
+    },
+    "data/musdb18hq/test/AM Contra - Heart Peripheral/vocals.wav": {
+      "mtime_ns": 1513108846000000000,
+      "size": 37062700
+    },
+    "data/musdb18hq/test/Al James - Schoolboy Facination/bass.wav": {
+      "mtime_ns": 1513108848000000000,
+      "size": 35372968
+    },
+    "data/musdb18hq/test/Al James - Schoolboy Facination/drums.wav": {
+      "mtime_ns": 1513108848000000000,
+      "size": 35372968
+    },
+    "data/musdb18hq/test/Al James - Schoolboy Facination/other.wav": {
+      "mtime_ns": 1513108848000000000,
+      "size": 35372968
+    },
+    "data/musdb18hq/test/Al James - Schoolboy Facination/vocals.wav": {
+      "mtime_ns": 1513108848000000000,
+      "size": 35372968
+    },
+    "data/musdb18hq/test/Angels In Amplifiers - I'm Alright/bass.wav": {
+      "mtime_ns": 1513108849000000000,
+      "size": 31680380
+    },
+    "data/musdb18hq/test/Angels In Amplifiers - I'm Alright/drums.wav": {
+      "mtime_ns": 1513108849000000000,
+      "size": 31680380
+    },
+    "data/musdb18hq/test/Angels In Amplifiers - I'm Alright/other.wav": {
+      "mtime_ns": 1513108850000000000,
+      "size": 31680380
+    },
+    "data/musdb18hq/test/Angels In Amplifiers - I'm Alright/vocals.wav": {
+      "mtime_ns": 1513108849000000000,
+      "size": 31680380
+    },
+    "data/musdb18hq/test/Arise - Run Run Run/bass.wav": {
+      "mtime_ns": 1513108851000000000,
+      "size": 38700944
+    },
+    "data/musdb18hq/test/Arise - Run Run Run/drums.wav": {
+      "mtime_ns": 1513108851000000000,
+      "size": 38700944
+    },
+    "data/musdb18hq/test/Arise - Run Run Run/other.wav": {
+      "mtime_ns": 1513108852000000000,
+      "size": 38700944
+    },
+    "data/musdb18hq/test/Arise - Run Run Run/vocals.wav": {
+      "mtime_ns": 1513108851000000000,
+      "size": 38700944
+    },
+    "data/musdb18hq/test/BKS - Bulldozer/bass.wav": {
+      "mtime_ns": 1513108854000000000,
+      "size": 59453932
+    },
+    "data/musdb18hq/test/BKS - Bulldozer/drums.wav": {
+      "mtime_ns": 1513108854000000000,
+      "size": 59453932
+    },
+    "data/musdb18hq/test/BKS - Bulldozer/other.wav": {
+      "mtime_ns": 1513108855000000000,
+      "size": 59453932
+    },
+    "data/musdb18hq/test/BKS - Bulldozer/vocals.wav": {
+      "mtime_ns": 1513108854000000000,
+      "size": 59453932
+    },
+    "data/musdb18hq/test/BKS - Too Much/bass.wav": {
+      "mtime_ns": 1513108856000000000,
+      "size": 38830092
+    },
+    "data/musdb18hq/test/BKS - Too Much/drums.wav": {
+      "mtime_ns": 1513108856000000000,
+      "size": 38830092
+    },
+    "data/musdb18hq/test/BKS - Too Much/other.wav": {
+      "mtime_ns": 1513108857000000000,
+      "size": 38830092
+    },
+    "data/musdb18hq/test/BKS - Too Much/vocals.wav": {
+      "mtime_ns": 1513108856000000000,
+      "size": 38830092
+    },
+    "data/musdb18hq/test/Ben Carrigan - We'll Talk About It All Tonight/bass.wav": {
+      "mtime_ns": 1513108859000000000,
+      "size": 44966292
+    },
+    "data/musdb18hq/test/Ben Carrigan - We'll Talk About It All Tonight/drums.wav": {
+      "mtime_ns": 1513108858000000000,
+      "size": 44966292
+    },
+    "data/musdb18hq/test/Ben Carrigan - We'll Talk About It All Tonight/other.wav": {
+      "mtime_ns": 1513108859000000000,
+      "size": 44966292
+    },
+    "data/musdb18hq/test/Ben Carrigan - We'll Talk About It All Tonight/vocals.wav": {
+      "mtime_ns": 1513108858000000000,
+      "size": 44966292
+    },
+    "data/musdb18hq/test/Bobby Nobody - Stitch Up/bass.wav": {
+      "mtime_ns": 1513108861000000000,
+      "size": 39028544
+    },
+    "data/musdb18hq/test/Bobby Nobody - Stitch Up/drums.wav": {
+      "mtime_ns": 1513108860000000000,
+      "size": 39028544
+    },
+    "data/musdb18hq/test/Bobby Nobody - Stitch Up/other.wav": {
+      "mtime_ns": 1513108861000000000,
+      "size": 39028544
+    },
+    "data/musdb18hq/test/Bobby Nobody - Stitch Up/vocals.wav": {
+      "mtime_ns": 1513108860000000000,
+      "size": 39028544
+    },
+    "data/musdb18hq/test/Buitraker - Revo X/bass.wav": {
+      "mtime_ns": 1513108863000000000,
+      "size": 48655732
+    },
+    "data/musdb18hq/test/Buitraker - Revo X/drums.wav": {
+      "mtime_ns": 1513108863000000000,
+      "size": 48655732
+    },
+    "data/musdb18hq/test/Buitraker - Revo X/other.wav": {
+      "mtime_ns": 1513108863000000000,
+      "size": 48655732
+    },
+    "data/musdb18hq/test/Buitraker - Revo X/vocals.wav": {
+      "mtime_ns": 1513108863000000000,
+      "size": 48655732
+    },
+    "data/musdb18hq/test/Carlos Gonzalez - A Place For Us/bass.wav": {
+      "mtime_ns": 1513108865000000000,
+      "size": 44138632
+    },
+    "data/musdb18hq/test/Carlos Gonzalez - A Place For Us/drums.wav": {
+      "mtime_ns": 1513108865000000000,
+      "size": 44138632
+    },
+    "data/musdb18hq/test/Carlos Gonzalez - A Place For Us/other.wav": {
+      "mtime_ns": 1513108866000000000,
+      "size": 44138632
+    },
+    "data/musdb18hq/test/Carlos Gonzalez - A Place For Us/vocals.wav": {
+      "mtime_ns": 1513108865000000000,
+      "size": 44138632
+    },
+    "data/musdb18hq/test/Cristina Vane - So Easy/bass.wav": {
+      "mtime_ns": 1513108868000000000,
+      "size": 44829268
+    },
+    "data/musdb18hq/test/Cristina Vane - So Easy/drums.wav": {
+      "mtime_ns": 1513108868000000000,
+      "size": 44829268
+    },
+    "data/musdb18hq/test/Cristina Vane - So Easy/other.wav": {
+      "mtime_ns": 1513108868000000000,
+      "size": 44829268
+    },
+    "data/musdb18hq/test/Cristina Vane - So Easy/vocals.wav": {
+      "mtime_ns": 1513108867000000000,
+      "size": 44829268
+    },
+    "data/musdb18hq/test/Detsky Sad - Walkie Talkie/bass.wav": {
+      "mtime_ns": 1513108870000000000,
+      "size": 33601092
+    },
+    "data/musdb18hq/test/Detsky Sad - Walkie Talkie/drums.wav": {
+      "mtime_ns": 1513108869000000000,
+      "size": 33601092
+    },
+    "data/musdb18hq/test/Detsky Sad - Walkie Talkie/other.wav": {
+      "mtime_ns": 1513108870000000000,
+      "size": 33601092
+    },
+    "data/musdb18hq/test/Detsky Sad - Walkie Talkie/vocals.wav": {
+      "mtime_ns": 1513108869000000000,
+      "size": 33601092
+    },
+    "data/musdb18hq/test/Enda Reilly - Cur An Long Ag Seol/bass.wav": {
+      "mtime_ns": 1513108871000000000,
+      "size": 32986056
+    },
+    "data/musdb18hq/test/Enda Reilly - Cur An Long Ag Seol/drums.wav": {
+      "mtime_ns": 1513108871000000000,
+      "size": 32986056
+    },
+    "data/musdb18hq/test/Enda Reilly - Cur An Long Ag Seol/other.wav": {
+      "mtime_ns": 1513108871000000000,
+      "size": 32986056
+    },
+    "data/musdb18hq/test/Enda Reilly - Cur An Long Ag Seol/vocals.wav": {
+      "mtime_ns": 1513108871000000000,
+      "size": 32986056
+    },
+    "data/musdb18hq/test/Forkupines - Semantics/bass.wav": {
+      "mtime_ns": 1513108873000000000,
+      "size": 48260408
+    },
+    "data/musdb18hq/test/Forkupines - Semantics/drums.wav": {
+      "mtime_ns": 1513108873000000000,
+      "size": 48260408
+    },
+    "data/musdb18hq/test/Forkupines - Semantics/other.wav": {
+      "mtime_ns": 1513108874000000000,
+      "size": 48260408
+    },
+    "data/musdb18hq/test/Forkupines - Semantics/vocals.wav": {
+      "mtime_ns": 1513108873000000000,
+      "size": 48260408
+    },
+    "data/musdb18hq/test/Georgia Wonder - Siren/bass.wav": {
+      "mtime_ns": 1513108877000000000,
+      "size": 75918196
+    },
+    "data/musdb18hq/test/Georgia Wonder - Siren/drums.wav": {
+      "mtime_ns": 1513108877000000000,
+      "size": 75918196
+    },
+    "data/musdb18hq/test/Georgia Wonder - Siren/other.wav": {
+      "mtime_ns": 1513108878000000000,
+      "size": 75918196
+    },
+    "data/musdb18hq/test/Georgia Wonder - Siren/vocals.wav": {
+      "mtime_ns": 1513108877000000000,
+      "size": 75918196
+    },
+    "data/musdb18hq/test/Girls Under Glass - We Feel Alright/bass.wav": {
+      "mtime_ns": 1513108880000000000,
+      "size": 55968456
+    },
+    "data/musdb18hq/test/Girls Under Glass - We Feel Alright/drums.wav": {
+      "mtime_ns": 1513108880000000000,
+      "size": 55968456
+    },
+    "data/musdb18hq/test/Girls Under Glass - We Feel Alright/other.wav": {
+      "mtime_ns": 1513108881000000000,
+      "size": 55968456
+    },
+    "data/musdb18hq/test/Girls Under Glass - We Feel Alright/vocals.wav": {
+      "mtime_ns": 1513108880000000000,
+      "size": 55968456
+    },
+    "data/musdb18hq/test/Hollow Ground - Ill Fate/bass.wav": {
+      "mtime_ns": 1513108882000000000,
+      "size": 24991356
+    },
+    "data/musdb18hq/test/Hollow Ground - Ill Fate/drums.wav": {
+      "mtime_ns": 1513108882000000000,
+      "size": 24991356
+    },
+    "data/musdb18hq/test/Hollow Ground - Ill Fate/other.wav": {
+      "mtime_ns": 1513108882000000000,
+      "size": 24991356
+    },
+    "data/musdb18hq/test/Hollow Ground - Ill Fate/vocals.wav": {
+      "mtime_ns": 1513108881000000000,
+      "size": 24991356
+    },
+    "data/musdb18hq/test/James Elder & Mark M Thompson - The English Actor/bass.wav": {
+      "mtime_ns": 1513108883000000000,
+      "size": 36245520
+    },
+    "data/musdb18hq/test/James Elder & Mark M Thompson - The English Actor/drums.wav": {
+      "mtime_ns": 1513108883000000000,
+      "size": 36245520
+    },
+    "data/musdb18hq/test/James Elder & Mark M Thompson - The English Actor/other.wav": {
+      "mtime_ns": 1513108884000000000,
+      "size": 36245520
+    },
+    "data/musdb18hq/test/James Elder & Mark M Thompson - The English Actor/vocals.wav": {
+      "mtime_ns": 1513108883000000000,
+      "size": 36245520
+    },
+    "data/musdb18hq/test/Juliet's Rescue - Heartbeats/bass.wav": {
+      "mtime_ns": 1513108886000000000,
+      "size": 47213820
+    },
+    "data/musdb18hq/test/Juliet's Rescue - Heartbeats/drums.wav": {
+      "mtime_ns": 1513108885000000000,
+      "size": 47213820
+    },
+    "data/musdb18hq/test/Juliet's Rescue - Heartbeats/other.wav": {
+      "mtime_ns": 1513108886000000000,
+      "size": 47213820
+    },
+    "data/musdb18hq/test/Juliet's Rescue - Heartbeats/vocals.wav": {
+      "mtime_ns": 1513108885000000000,
+      "size": 47213820
+    },
+    "data/musdb18hq/test/Little Chicago's Finest - My Own/bass.wav": {
+      "mtime_ns": 1513108888000000000,
+      "size": 49676332
+    },
+    "data/musdb18hq/test/Little Chicago's Finest - My Own/drums.wav": {
+      "mtime_ns": 1513108888000000000,
+      "size": 49676332
+    },
+    "data/musdb18hq/test/Little Chicago's Finest - My Own/other.wav": {
+      "mtime_ns": 1513108888000000000,
+      "size": 49676332
+    },
+    "data/musdb18hq/test/Little Chicago's Finest - My Own/vocals.wav": {
+      "mtime_ns": 1513108888000000000,
+      "size": 49676332
+    },
+    "data/musdb18hq/test/Louis Cressy Band - Good Time/bass.wav": {
+      "mtime_ns": 1513108891000000000,
+      "size": 51653744
+    },
+    "data/musdb18hq/test/Louis Cressy Band - Good Time/drums.wav": {
+      "mtime_ns": 1513108891000000000,
+      "size": 51653744
+    },
+    "data/musdb18hq/test/Louis Cressy Band - Good Time/other.wav": {
+      "mtime_ns": 1513108891000000000,
+      "size": 51653744
+    },
+    "data/musdb18hq/test/Louis Cressy Band - Good Time/vocals.wav": {
+      "mtime_ns": 1513108890000000000,
+      "size": 51653744
+    },
+    "data/musdb18hq/test/Lyndsey Ollard - Catching Up/bass.wav": {
+      "mtime_ns": 1513108893000000000,
+      "size": 40118444
+    },
+    "data/musdb18hq/test/Lyndsey Ollard - Catching Up/drums.wav": {
+      "mtime_ns": 1513108893000000000,
+      "size": 40118444
+    },
+    "data/musdb18hq/test/Lyndsey Ollard - Catching Up/other.wav": {
+      "mtime_ns": 1513108893000000000,
+      "size": 40118444
+    },
+    "data/musdb18hq/test/Lyndsey Ollard - Catching Up/vocals.wav": {
+      "mtime_ns": 1513108893000000000,
+      "size": 40118444
+    },
+    "data/musdb18hq/test/M.E.R.C. Music - Knockout/bass.wav": {
+      "mtime_ns": 1513108896000000000,
+      "size": 47628044
+    },
+    "data/musdb18hq/test/M.E.R.C. Music - Knockout/drums.wav": {
+      "mtime_ns": 1513108895000000000,
+      "size": 47628044
+    },
+    "data/musdb18hq/test/M.E.R.C. Music - Knockout/other.wav": {
+      "mtime_ns": 1513108896000000000,
+      "size": 47628044
+    },
+    "data/musdb18hq/test/M.E.R.C. Music - Knockout/vocals.wav": {
+      "mtime_ns": 1513108895000000000,
+      "size": 47628044
+    },
+    "data/musdb18hq/test/Moosmusic - Big Dummy Shake/bass.wav": {
+      "mtime_ns": 1513108898000000000,
+      "size": 35078444
+    },
+    "data/musdb18hq/test/Moosmusic - Big Dummy Shake/drums.wav": {
+      "mtime_ns": 1513108897000000000,
+      "size": 35078444
+    },
+    "data/musdb18hq/test/Moosmusic - Big Dummy Shake/other.wav": {
+      "mtime_ns": 1513108898000000000,
+      "size": 35078444
+    },
+    "data/musdb18hq/test/Moosmusic - Big Dummy Shake/vocals.wav": {
+      "mtime_ns": 1513108897000000000,
+      "size": 35078444
+    },
+    "data/musdb18hq/test/Motor Tapes - Shore/bass.wav": {
+      "mtime_ns": 1513108900000000000,
+      "size": 43522020
+    },
+    "data/musdb18hq/test/Motor Tapes - Shore/drums.wav": {
+      "mtime_ns": 1513108900000000000,
+      "size": 43522020
+    },
+    "data/musdb18hq/test/Motor Tapes - Shore/other.wav": {
+      "mtime_ns": 1513108900000000000,
+      "size": 43522020
+    },
+    "data/musdb18hq/test/Motor Tapes - Shore/vocals.wav": {
+      "mtime_ns": 1513108899000000000,
+      "size": 43522020
+    },
+    "data/musdb18hq/test/Mu - Too Bright/bass.wav": {
+      "mtime_ns": 1513108902000000000,
+      "size": 48009980
+    },
+    "data/musdb18hq/test/Mu - Too Bright/drums.wav": {
+      "mtime_ns": 1513108902000000000,
+      "size": 48009980
+    },
+    "data/musdb18hq/test/Mu - Too Bright/other.wav": {
+      "mtime_ns": 1513108903000000000,
+      "size": 48009980
+    },
+    "data/musdb18hq/test/Mu - Too Bright/vocals.wav": {
+      "mtime_ns": 1513108902000000000,
+      "size": 48009980
+    },
+    "data/musdb18hq/test/Nerve 9 - Pray For The Rain/bass.wav": {
+      "mtime_ns": 1513108905000000000,
+      "size": 60631244
+    },
+    "data/musdb18hq/test/Nerve 9 - Pray For The Rain/drums.wav": {
+      "mtime_ns": 1513108905000000000,
+      "size": 60631244
+    },
+    "data/musdb18hq/test/Nerve 9 - Pray For The Rain/other.wav": {
+      "mtime_ns": 1513108906000000000,
+      "size": 60631244
+    },
+    "data/musdb18hq/test/Nerve 9 - Pray For The Rain/vocals.wav": {
+      "mtime_ns": 1513108905000000000,
+      "size": 60631244
+    },
+    "data/musdb18hq/test/PR - Happy Daze/bass.wav": {
+      "mtime_ns": 1513312268000000000,
+      "size": 28700932
+    },
+    "data/musdb18hq/test/PR - Happy Daze/drums.wav": {
+      "mtime_ns": 1513312269000000000,
+      "size": 28700934
+    },
+    "data/musdb18hq/test/PR - Happy Daze/other.wav": {
+      "mtime_ns": 1513312269000000000,
+      "size": 28700934
+    },
+    "data/musdb18hq/test/PR - Happy Daze/vocals.wav": {
+      "mtime_ns": 1513312269000000000,
+      "size": 28700936
+    },
+    "data/musdb18hq/test/PR - Oh No/bass.wav": {
+      "mtime_ns": 1513080709000000000,
+      "size": 13440968
+    },
+    "data/musdb18hq/test/PR - Oh No/drums.wav": {
+      "mtime_ns": 1513312114000000000,
+      "size": 13440970
+    },
+    "data/musdb18hq/test/PR - Oh No/other.wav": {
+      "mtime_ns": 1513312114000000000,
+      "size": 13440970
+    },
+    "data/musdb18hq/test/PR - Oh No/vocals.wav": {
+      "mtime_ns": 1513312114000000000,
+      "size": 13440972
+    },
+    "data/musdb18hq/test/Punkdisco - Oral Hygiene/bass.wav": {
+      "mtime_ns": 1513108909000000000,
+      "size": 39089968
+    },
+    "data/musdb18hq/test/Punkdisco - Oral Hygiene/drums.wav": {
+      "mtime_ns": 1513108909000000000,
+      "size": 39089968
+    },
+    "data/musdb18hq/test/Punkdisco - Oral Hygiene/other.wav": {
+      "mtime_ns": 1513108910000000000,
+      "size": 39089968
+    },
+    "data/musdb18hq/test/Punkdisco - Oral Hygiene/vocals.wav": {
+      "mtime_ns": 1513108909000000000,
+      "size": 39089968
+    },
+    "data/musdb18hq/test/Raft Monk - Tiring/bass.wav": {
+      "mtime_ns": 1513108911000000000,
+      "size": 37440156
+    },
+    "data/musdb18hq/test/Raft Monk - Tiring/drums.wav": {
+      "mtime_ns": 1513108911000000000,
+      "size": 37440156
+    },
+    "data/musdb18hq/test/Raft Monk - Tiring/other.wav": {
+      "mtime_ns": 1513108911000000000,
+      "size": 37440156
+    },
+    "data/musdb18hq/test/Raft Monk - Tiring/vocals.wav": {
+      "mtime_ns": 1513108911000000000,
+      "size": 37440156
+    },
+    "data/musdb18hq/test/Sambasevam Shanmugam - Kaathaadi/bass.wav": {
+      "mtime_ns": 1513108914000000000,
+      "size": 56073980
+    },
+    "data/musdb18hq/test/Sambasevam Shanmugam - Kaathaadi/drums.wav": {
+      "mtime_ns": 1513108914000000000,
+      "size": 56073980
+    },
+    "data/musdb18hq/test/Sambasevam Shanmugam - Kaathaadi/other.wav": {
+      "mtime_ns": 1513108914000000000,
+      "size": 56073980
+    },
+    "data/musdb18hq/test/Sambasevam Shanmugam - Kaathaadi/vocals.wav": {
+      "mtime_ns": 1513108914000000000,
+      "size": 56073980
+    },
+    "data/musdb18hq/test/Secretariat - Borderline/bass.wav": {
+      "mtime_ns": 1513108917000000000,
+      "size": 50599612
+    },
+    "data/musdb18hq/test/Secretariat - Borderline/drums.wav": {
+      "mtime_ns": 1513108916000000000,
+      "size": 50599612
+    },
+    "data/musdb18hq/test/Secretariat - Borderline/other.wav": {
+      "mtime_ns": 1513108917000000000,
+      "size": 50599612
+    },
+    "data/musdb18hq/test/Secretariat - Borderline/vocals.wav": {
+      "mtime_ns": 1513108916000000000,
+      "size": 50599612
+    },
+    "data/musdb18hq/test/Secretariat - Over The Top/bass.wav": {
+      "mtime_ns": 1513108919000000000,
+      "size": 44293356
+    },
+    "data/musdb18hq/test/Secretariat - Over The Top/drums.wav": {
+      "mtime_ns": 1513108919000000000,
+      "size": 44293356
+    },
+    "data/musdb18hq/test/Secretariat - Over The Top/other.wav": {
+      "mtime_ns": 1513108919000000000,
+      "size": 44293356
+    },
+    "data/musdb18hq/test/Secretariat - Over The Top/vocals.wav": {
+      "mtime_ns": 1513108919000000000,
+      "size": 44293356
+    },
+    "data/musdb18hq/test/Side Effects Project - Sing With Me/bass.wav": {
+      "mtime_ns": 1513108921000000000,
+      "size": 42985732
+    },
+    "data/musdb18hq/test/Side Effects Project - Sing With Me/drums.wav": {
+      "mtime_ns": 1513108921000000000,
+      "size": 42985732
+    },
+    "data/musdb18hq/test/Side Effects Project - Sing With Me/other.wav": {
+      "mtime_ns": 1513108922000000000,
+      "size": 42985732
+    },
+    "data/musdb18hq/test/Side Effects Project - Sing With Me/vocals.wav": {
+      "mtime_ns": 1513108921000000000,
+      "size": 42985732
+    },
+    "data/musdb18hq/test/Signe Jakobsen - What Have You Done To Me/bass.wav": {
+      "mtime_ns": 1513108923000000000,
+      "size": 31292932
+    },
+    "data/musdb18hq/test/Signe Jakobsen - What Have You Done To Me/drums.wav": {
+      "mtime_ns": 1513108923000000000,
+      "size": 31292932
+    },
+    "data/musdb18hq/test/Signe Jakobsen - What Have You Done To Me/other.wav": {
+      "mtime_ns": 1513108923000000000,
+      "size": 31292932
+    },
+    "data/musdb18hq/test/Signe Jakobsen - What Have You Done To Me/vocals.wav": {
+      "mtime_ns": 1513108923000000000,
+      "size": 31292932
+    },
+    "data/musdb18hq/test/Skelpolu - Resurrection/bass.wav": {
+      "mtime_ns": 1513108926000000000,
+      "size": 69794984
+    },
+    "data/musdb18hq/test/Skelpolu - Resurrection/drums.wav": {
+      "mtime_ns": 1513108926000000000,
+      "size": 69794984
+    },
+    "data/musdb18hq/test/Skelpolu - Resurrection/other.wav": {
+      "mtime_ns": 1513108926000000000,
+      "size": 69794984
+    },
+    "data/musdb18hq/test/Skelpolu - Resurrection/vocals.wav": {
+      "mtime_ns": 1513108926000000000,
+      "size": 69794984
+    },
+    "data/musdb18hq/test/Speak Softly - Broken Man/bass.wav": {
+      "mtime_ns": 1513108929000000000,
+      "size": 44657500
+    },
+    "data/musdb18hq/test/Speak Softly - Broken Man/drums.wav": {
+      "mtime_ns": 1513108928000000000,
+      "size": 44657500
+    },
+    "data/musdb18hq/test/Speak Softly - Broken Man/other.wav": {
+      "mtime_ns": 1513108929000000000,
+      "size": 44657500
+    },
+    "data/musdb18hq/test/Speak Softly - Broken Man/vocals.wav": {
+      "mtime_ns": 1513108928000000000,
+      "size": 44657500
+    },
+    "data/musdb18hq/test/Speak Softly - Like Horses/bass.wav": {
+      "mtime_ns": 1513108931000000000,
+      "size": 55154444
+    },
+    "data/musdb18hq/test/Speak Softly - Like Horses/drums.wav": {
+      "mtime_ns": 1513108931000000000,
+      "size": 55154444
+    },
+    "data/musdb18hq/test/Speak Softly - Like Horses/other.wav": {
+      "mtime_ns": 1513108932000000000,
+      "size": 55154444
+    },
+    "data/musdb18hq/test/Speak Softly - Like Horses/vocals.wav": {
+      "mtime_ns": 1513108931000000000,
+      "size": 55154444
+    },
+    "data/musdb18hq/test/The Doppler Shift - Atrophy/bass.wav": {
+      "mtime_ns": 1513108934000000000,
+      "size": 58466408
+    },
+    "data/musdb18hq/test/The Doppler Shift - Atrophy/drums.wav": {
+      "mtime_ns": 1513108934000000000,
+      "size": 58466408
+    },
+    "data/musdb18hq/test/The Doppler Shift - Atrophy/other.wav": {
+      "mtime_ns": 1513108935000000000,
+      "size": 58466408
+    },
+    "data/musdb18hq/test/The Doppler Shift - Atrophy/vocals.wav": {
+      "mtime_ns": 1513108934000000000,
+      "size": 58466408
+    },
+    "data/musdb18hq/test/The Easton Ellises (Baumi) - SDRNR/bass.wav": {
+      "mtime_ns": 1513108937000000000,
+      "size": 41398316
+    },
+    "data/musdb18hq/test/The Easton Ellises (Baumi) - SDRNR/drums.wav": {
+      "mtime_ns": 1513108936000000000,
+      "size": 41398316
+    },
+    "data/musdb18hq/test/The Easton Ellises (Baumi) - SDRNR/other.wav": {
+      "mtime_ns": 1513108937000000000,
+      "size": 41398316
+    },
+    "data/musdb18hq/test/The Easton Ellises (Baumi) - SDRNR/vocals.wav": {
+      "mtime_ns": 1513108936000000000,
+      "size": 41398316
+    },
+    "data/musdb18hq/test/The Easton Ellises - Falcon 69/bass.wav": {
+      "mtime_ns": 1513108939000000000,
+      "size": 43569196
+    },
+    "data/musdb18hq/test/The Easton Ellises - Falcon 69/drums.wav": {
+      "mtime_ns": 1513108939000000000,
+      "size": 43569196
+    },
+    "data/musdb18hq/test/The Easton Ellises - Falcon 69/other.wav": {
+      "mtime_ns": 1513108939000000000,
+      "size": 43569196
+    },
+    "data/musdb18hq/test/The Easton Ellises - Falcon 69/vocals.wav": {
+      "mtime_ns": 1513108938000000000,
+      "size": 43569196
+    },
+    "data/musdb18hq/test/The Long Wait - Dark Horses/bass.wav": {
+      "mtime_ns": 1513108942000000000,
+      "size": 53929216
+    },
+    "data/musdb18hq/test/The Long Wait - Dark Horses/drums.wav": {
+      "mtime_ns": 1513108941000000000,
+      "size": 53929216
+    },
+    "data/musdb18hq/test/The Long Wait - Dark Horses/other.wav": {
+      "mtime_ns": 1513108942000000000,
+      "size": 53929216
+    },
+    "data/musdb18hq/test/The Long Wait - Dark Horses/vocals.wav": {
+      "mtime_ns": 1513108941000000000,
+      "size": 53929216
+    },
+    "data/musdb18hq/test/The Mountaineering Club - Mallory/bass.wav": {
+      "mtime_ns": 1513108944000000000,
+      "size": 43122756
+    },
+    "data/musdb18hq/test/The Mountaineering Club - Mallory/drums.wav": {
+      "mtime_ns": 1513108944000000000,
+      "size": 43122756
+    },
+    "data/musdb18hq/test/The Mountaineering Club - Mallory/other.wav": {
+      "mtime_ns": 1513108944000000000,
+      "size": 43122756
+    },
+    "data/musdb18hq/test/The Mountaineering Club - Mallory/vocals.wav": {
+      "mtime_ns": 1513108944000000000,
+      "size": 43122756
+    },
+    "data/musdb18hq/test/The Sunshine Garcia Band - For I Am The Moon/bass.wav": {
+      "mtime_ns": 1513108947000000000,
+      "size": 56500376
+    },
+    "data/musdb18hq/test/The Sunshine Garcia Band - For I Am The Moon/drums.wav": {
+      "mtime_ns": 1513108947000000000,
+      "size": 56500376
+    },
+    "data/musdb18hq/test/The Sunshine Garcia Band - For I Am The Moon/other.wav": {
+      "mtime_ns": 1513108947000000000,
+      "size": 56500376
+    },
+    "data/musdb18hq/test/The Sunshine Garcia Band - For I Am The Moon/vocals.wav": {
+      "mtime_ns": 1513108946000000000,
+      "size": 56500376
+    },
+    "data/musdb18hq/test/Timboz - Pony/bass.wav": {
+      "mtime_ns": 1513108949000000000,
+      "size": 44637840
+    },
+    "data/musdb18hq/test/Timboz - Pony/drums.wav": {
+      "mtime_ns": 1513108949000000000,
+      "size": 44637840
+    },
+    "data/musdb18hq/test/Timboz - Pony/other.wav": {
+      "mtime_ns": 1513108949000000000,
+      "size": 44637840
+    },
+    "data/musdb18hq/test/Timboz - Pony/vocals.wav": {
+      "mtime_ns": 1513108949000000000,
+      "size": 44637840
+    },
+    "data/musdb18hq/test/Tom McKenzie - Directions/bass.wav": {
+      "mtime_ns": 1513108951000000000,
+      "size": 31020456
+    },
+    "data/musdb18hq/test/Tom McKenzie - Directions/drums.wav": {
+      "mtime_ns": 1513108950000000000,
+      "size": 31020456
+    },
+    "data/musdb18hq/test/Tom McKenzie - Directions/other.wav": {
+      "mtime_ns": 1513108951000000000,
+      "size": 31020456
+    },
+    "data/musdb18hq/test/Tom McKenzie - Directions/vocals.wav": {
+      "mtime_ns": 1513108950000000000,
+      "size": 31020456
+    },
+    "data/musdb18hq/test/Triviul feat. The Fiend - Widow/bass.wav": {
+      "mtime_ns": 1513108953000000000,
+      "size": 41473392
+    },
+    "data/musdb18hq/test/Triviul feat. The Fiend - Widow/drums.wav": {
+      "mtime_ns": 1513108952000000000,
+      "size": 41473392
+    },
+    "data/musdb18hq/test/Triviul feat. The Fiend - Widow/other.wav": {
+      "mtime_ns": 1513108953000000000,
+      "size": 41473392
+    },
+    "data/musdb18hq/test/Triviul feat. The Fiend - Widow/vocals.wav": {
+      "mtime_ns": 1513108952000000000,
+      "size": 41473392
+    },
+    "data/musdb18hq/test/We Fell From The Sky - Not You/bass.wav": {
+      "mtime_ns": 1513108955000000000,
+      "size": 36673132
+    },
+    "data/musdb18hq/test/We Fell From The Sky - Not You/drums.wav": {
+      "mtime_ns": 1513108954000000000,
+      "size": 36673132
+    },
+    "data/musdb18hq/test/We Fell From The Sky - Not You/other.wav": {
+      "mtime_ns": 1513108955000000000,
+      "size": 36673132
+    },
+    "data/musdb18hq/test/We Fell From The Sky - Not You/vocals.wav": {
+      "mtime_ns": 1513108954000000000,
+      "size": 36673132
+    },
+    "data/musdb18hq/test/Zeno - Signs/bass.wav": {
+      "mtime_ns": 1513108957000000000,
+      "size": 41345368
+    },
+    "data/musdb18hq/test/Zeno - Signs/drums.wav": {
+      "mtime_ns": 1513108957000000000,
+      "size": 41345368
+    },
+    "data/musdb18hq/test/Zeno - Signs/other.wav": {
+      "mtime_ns": 1513108957000000000,
+      "size": 41345368
+    },
+    "data/musdb18hq/test/Zeno - Signs/vocals.wav": {
+      "mtime_ns": 1513108956000000000,
+      "size": 41345368
+    }
+  },
+  "families": {
+    "dual": [
+      "D_dual_2p9ms",
+      "D_dual_2p9ms_lr3e4"
+    ],
+    "wide_short": [
+      "E_sym128_compute",
+      "E_sym128_compute_lr3e4"
+    ]
+  },
+  "file_hashes": {
+    "configs/D_dual_2p9ms.yaml": "3b5181f04914e5bbff184eb3d812466cdaee5171bd4e607aeea6f7a77ca27471",
+    "configs/D_dual_2p9ms_lr3e4.yaml": "453dd12ecfd0ed7a654cb409f241022a0397c5befd6365e5902145ffb5e8bfd8",
+    "configs/E_sym128.yaml": "5ecf1efedae0d513c31cc5f409b38139bd5283c4938a24ea90b7562a4d42aa86",
+    "configs/E_sym128_compute.yaml": "9534259df1540a25893383b4ff84fb3ebf415ce55aebcc90a56725bc9abe2060",
+    "configs/E_sym128_compute_lr3e4.yaml": "986efbf2c5664ab33425dec0726e27f0604a5b98e16b1a7c53db6f419a85bc90",
+    "configs/base.yaml": "39aa9ca4a62b6f65e0fe63030282a4bdcc58380d61599f4421d86c25050544be",
+    "dwmss/config.py": "bafcde19929b36e7481b8631d1835e3f7d041861e6f2eab1385ea981667b5b58",
+    "dwmss/data.py": "ac485255e29bbb1259b9ccd2e402fba8d534e68fecd6bc50dcfa6cfa34488dac",
+    "dwmss/losses.py": "ca80d309941b78862f093d1617d2644282a4b56119b0efc225c1f9e6058666c3",
+    "dwmss/metrics.py": "67fe24bb1d9fda3f23406638c5224f981b08508ac77bf2d555c253b48266c2bf",
+    "dwmss/model.py": "fcf9d8a86cf3f79008bb5605eab745ea78b65f2803539ec7a23decd1b58b9321",
+    "dwmss/separator.py": "824343726675608e82f0ef0dff4c6cf4a1537fdc3e0786a925c08897a42ba7b4",
+    "dwmss/stft.py": "833cf3ff79f5b8d304e5532b8bcede96d40e88f85892de2f24e207b8080d85cf",
+    "scripts/recipe_check.py": "59de43386324d471a8cd9252e5cdf5a7c949e3940cf6d5adfeb4c549838aa42c",
+    "scripts/train.py": "06a68251616feb7aca84d73b87587b16ca5a19f3a60da566f2393d3affa6d265",
+    "slurm/evaluate_recipe_check.sbatch": "5f6ab5d6529fe5d809ce671d49644d0ed0407f5d011d93fc97c8d4a43770d89a",
+    "slurm/train_recipe_check.sbatch": "48242c56f51e0df44ac6dbdf75c37fa5800aee587e6e15debe4850478108039b"
+  },
+  "original_evaluations": {
+    "D_dual_2p9ms_seed0": {
+      "csv_path": "results/eval/D_dual_2p9ms_seed0_test.csv",
+      "csv_sha256": "1bc9b57fbad28f26cbf529c7a94daaf1d789888d6c5a89705d3fd1d2e9b41385",
+      "json_path": "results/eval/D_dual_2p9ms_seed0_test.json",
+      "json_sha256": "0831d0154fc1c0cd3c87249b7e80385dd173c6fb2ef708bc40bc9cc41f150b59"
+    },
+    "D_dual_2p9ms_seed1": {
+      "csv_path": "results/eval/D_dual_2p9ms_seed1_test.csv",
+      "csv_sha256": "5da1311263e6ba28d0cef22255b5bfcab05b6301c2319cbc9789b624408eac54",
+      "json_path": "results/eval/D_dual_2p9ms_seed1_test.json",
+      "json_sha256": "dfe7999ea512b1e114c66ad5ff1368896c25cb5406039739a91220f7d4c93159"
+    },
+    "E_sym128_compute_seed0": {
+      "csv_path": "results/eval/E_sym128_compute_seed0_test.csv",
+      "csv_sha256": "8280a673b394870ed2123e5808df6492ab4b35704b8eebe68915905f691b4b09",
+      "json_path": "results/eval/E_sym128_compute_seed0_test.json",
+      "json_sha256": "8d7538166c114c9b5af549e6d2a1dcf57246e0f22df5a44c564940a9f81ad04d"
+    },
+    "E_sym128_compute_seed1": {
+      "csv_path": "results/eval/E_sym128_compute_seed1_test.csv",
+      "csv_sha256": "d84f108b1022996b6c3fed1a0ba61a7bf4c201e42185268ef95314b681a8b2de",
+      "json_path": "results/eval/E_sym128_compute_seed1_test.json",
+      "json_sha256": "662eb0dd8f6ce55dfb34c1397e8e2e44c336b30cde19633497d46951465e6575"
+    }
+  },
+  "original_runs": {
+    "D_dual_2p9ms_seed0": {
+      "best_step": 145000,
+      "best_validation_median": 4.323975714166691,
+      "config": "D_dual_2p9ms",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "6befd477627ff0acbd2cd19f2675395dff7668c8c5a0233874ed4c9e6a241912",
+        "last.pt": "f87f1667fed692812b8ff8e099bc9fcc6254288a451d02108a48072986bc8b07",
+        "log.jsonl": "1373a6f5859caea57e897d2029c7ee2a907a3ae222b31230ccd0147ec39b11cd",
+        "meta.json": "839a62fcdc1e884c2823220fed262170e818cb49da98001c01a5dc2cbb08ea2f"
+      },
+      "run": "runs/D_dual_2p9ms_seed0",
+      "seed": 0
+    },
+    "D_dual_2p9ms_seed1": {
+      "best_step": 195000,
+      "best_validation_median": 4.1405079243630505,
+      "config": "D_dual_2p9ms",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "671135610ca96b5ded362c156908925466c35760d51ee5cddff8a77a3e996f3c",
+        "last.pt": "2da7422860b514ba61649f6d26069339a248525bde3523c8bbd0803eadaca018",
+        "log.jsonl": "ed3d9a4537078632a913ee79aa2a1e9d5f946da92e688236c5cafa1d284b8f63",
+        "meta.json": "6417bb020d2f6a62b8ecb65644fe0c19b9283e85bfacbe0d4f206722ffabfd5a"
+      },
+      "run": "runs/D_dual_2p9ms_seed1",
+      "seed": 1
+    },
+    "E_sym128_compute_seed0": {
+      "best_step": 15000,
+      "best_validation_median": 2.8808556552501683,
+      "config": "E_sym128_compute",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "23b8f35278ffd83f0d888e45d15926986011928e06f678f0014c708ff331b30d",
+        "last.pt": "597d3b62b8cca150ffefbc8d225cd89c44204d79f614cff3ef608a9364134866",
+        "log.jsonl": "df4e0f5a0322d2776d40be3f12b3d45577146fdc726674fdae266939bb2ceceb",
+        "meta.json": "9bef31fc0b956b55ca743235f4dee8b874776be6c18a15f9da633581a3dc9e56"
+      },
+      "run": "runs/E_sym128_compute_seed0",
+      "seed": 0
+    },
+    "E_sym128_compute_seed1": {
+      "best_step": 20000,
+      "best_validation_median": 2.9969804774756925,
+      "config": "E_sym128_compute",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "531e7f7e1bd8d156ba193fccbb938841b4f6ba5888a3d904f9e647e75aea59eb",
+        "last.pt": "9b8abfce5fc61343414f44ebfc267651503a6b38e88c7e53cc794de336007e26",
+        "log.jsonl": "34f03357e716b1fbbbc2f28b467556aea9b88f498e2490ef432382ec526f380b",
+        "meta.json": "60badaadd8b1f96a23370955a3135c9dde8041f66a09b388d401188cd1982616"
+      },
+      "run": "runs/E_sym128_compute_seed1",
+      "seed": 1
+    }
+  },
+  "resolved_configs": {
+    "D_dual_2p9ms": {
+      "data": {
+        "bleed_db": [
+          6.0,
+          20.0
+        ],
+        "gain_db": [
+          -6.0,
+          3.0
+        ],
+        "musdb_root": "data/musdb18hq",
+        "p_bleed": 0.2,
+        "p_remix": 0.5,
+        "seconds": 3.0
+      },
+      "loss": {
+        "power": 0.3,
+        "resolutions": [
+          [
+            512,
+            128
+          ],
+          [
+            1024,
+            256
+          ],
+          [
+            2048,
+            512
+          ]
+        ],
+        "wave_weight": 10.0
+      },
+      "model": {
+        "c1": 16,
+        "c2": 32,
+        "head_hidden": 32,
+        "hidden": 256,
+        "n_bands": 64
+      },
+      "name": "D_dual_2p9ms",
+      "stft": {
+        "n_analysis": 2048,
+        "n_synthesis": 128
+      },
+      "train": {
+        "batch_size": 16,
+        "grad_clip": 5.0,
+        "log_every": 100,
+        "lr": 0.001,
+        "max_hours": 23.0,
+        "max_steps": 200000,
+        "min_lr_ratio": 0.01,
+        "num_workers": 8,
+        "val_every": 5000,
+        "warmup_steps": 2000,
+        "weight_decay": 0.01
+      }
+    },
+    "D_dual_2p9ms_lr3e4": {
+      "data": {
+        "bleed_db": [
+          6.0,
+          20.0
+        ],
+        "gain_db": [
+          -6.0,
+          3.0
+        ],
+        "musdb_root": "data/musdb18hq",
+        "p_bleed": 0.2,
+        "p_remix": 0.5,
+        "seconds": 3.0
+      },
+      "loss": {
+        "power": 0.3,
+        "resolutions": [
+          [
+            512,
+            128
+          ],
+          [
+            1024,
+            256
+          ],
+          [
+            2048,
+            512
+          ]
+        ],
+        "wave_weight": 10.0
+      },
+      "model": {
+        "c1": 16,
+        "c2": 32,
+        "head_hidden": 32,
+        "hidden": 256,
+        "n_bands": 64
+      },
+      "name": "D_dual_2p9ms_lr3e4",
+      "stft": {
+        "n_analysis": 2048,
+        "n_synthesis": 128
+      },
+      "train": {
+        "batch_size": 16,
+        "grad_clip": 5.0,
+        "log_every": 100,
+        "lr": 0.0003,
+        "max_hours": 23.0,
+        "max_steps": 200000,
+        "min_lr_ratio": 0.01,
+        "num_workers": 8,
+        "val_every": 5000,
+        "warmup_steps": 2000,
+        "weight_decay": 0.01
+      }
+    },
+    "E_sym128_compute": {
+      "data": {
+        "bleed_db": [
+          6.0,
+          20.0
+        ],
+        "gain_db": [
+          -6.0,
+          3.0
+        ],
+        "musdb_root": "data/musdb18hq",
+        "p_bleed": 0.2,
+        "p_remix": 0.5,
+        "seconds": 3.0
+      },
+      "loss": {
+        "power": 0.3,
+        "resolutions": [
+          [
+            512,
+            128
+          ],
+          [
+            1024,
+            256
+          ],
+          [
+            2048,
+            512
+          ]
+        ],
+        "wave_weight": 10.0
+      },
+      "model": {
+        "c1": 16,
+        "c2": 32,
+        "head_hidden": 32,
+        "hidden": 800,
+        "n_bands": 64
+      },
+      "name": "E_sym128_compute",
+      "stft": {
+        "n_analysis": 128,
+        "n_synthesis": 128
+      },
+      "train": {
+        "batch_size": 16,
+        "grad_clip": 5.0,
+        "log_every": 100,
+        "lr": 0.001,
+        "max_hours": 23.0,
+        "max_steps": 200000,
+        "min_lr_ratio": 0.01,
+        "num_workers": 8,
+        "val_every": 5000,
+        "warmup_steps": 2000,
+        "weight_decay": 0.01
+      }
+    },
+    "E_sym128_compute_lr3e4": {
+      "data": {
+        "bleed_db": [
+          6.0,
+          20.0
+        ],
+        "gain_db": [
+          -6.0,
+          3.0
+        ],
+        "musdb_root": "data/musdb18hq",
+        "p_bleed": 0.2,
+        "p_remix": 0.5,
+        "seconds": 3.0
+      },
+      "loss": {
+        "power": 0.3,
+        "resolutions": [
+          [
+            512,
+            128
+          ],
+          [
+            1024,
+            256
+          ],
+          [
+            2048,
+            512
+          ]
+        ],
+        "wave_weight": 10.0
+      },
+      "model": {
+        "c1": 16,
+        "c2": 32,
+        "head_hidden": 32,
+        "hidden": 800,
+        "n_bands": 64
+      },
+      "name": "E_sym128_compute_lr3e4",
+      "stft": {
+        "n_analysis": 128,
+        "n_synthesis": 128
+      },
+      "train": {
+        "batch_size": 16,
+        "grad_clip": 5.0,
+        "log_every": 100,
+        "lr": 0.0003,
+        "max_hours": 23.0,
+        "max_steps": 200000,
+        "min_lr_ratio": 0.01,
+        "num_workers": 8,
+        "val_every": 5000,
+        "warmup_steps": 2000,
+        "weight_decay": 0.01
+      }
+    }
+  },
+  "schema_version": 1,
+  "scope": "Exploratory 2.9 ms follow-up motivated by already observed test results",
+  "seeds": [
+    0,
+    1
+  ],
+  "selection": "Per architecture: arithmetic mean of each seed's best validation median; ties within 1e-9 dB favor original LR",
+  "selection_tie_tolerance_db": 1e-09,
+  "steps_per_run": 200000,
+  "test_tracks": [
+    "AM Contra - Heart Peripheral",
+    "Al James - Schoolboy Facination",
+    "Angels In Amplifiers - I'm Alright",
+    "Arise - Run Run Run",
+    "BKS - Bulldozer",
+    "BKS - Too Much",
+    "Ben Carrigan - We'll Talk About It All Tonight",
+    "Bobby Nobody - Stitch Up",
+    "Buitraker - Revo X",
+    "Carlos Gonzalez - A Place For Us",
+    "Cristina Vane - So Easy",
+    "Detsky Sad - Walkie Talkie",
+    "Enda Reilly - Cur An Long Ag Seol",
+    "Forkupines - Semantics",
+    "Georgia Wonder - Siren",
+    "Girls Under Glass - We Feel Alright",
+    "Hollow Ground - Ill Fate",
+    "James Elder & Mark M Thompson - The English Actor",
+    "Juliet's Rescue - Heartbeats",
+    "Little Chicago's Finest - My Own",
+    "Louis Cressy Band - Good Time",
+    "Lyndsey Ollard - Catching Up",
+    "M.E.R.C. Music - Knockout",
+    "Moosmusic - Big Dummy Shake",
+    "Motor Tapes - Shore",
+    "Mu - Too Bright",
+    "Nerve 9 - Pray For The Rain",
+    "PR - Happy Daze",
+    "PR - Oh No",
+    "Punkdisco - Oral Hygiene",
+    "Raft Monk - Tiring",
+    "Sambasevam Shanmugam - Kaathaadi",
+    "Secretariat - Borderline",
+    "Secretariat - Over The Top",
+    "Side Effects Project - Sing With Me",
+    "Signe Jakobsen - What Have You Done To Me",
+    "Skelpolu - Resurrection",
+    "Speak Softly - Broken Man",
+    "Speak Softly - Like Horses",
+    "The Doppler Shift - Atrophy",
+    "The Easton Ellises (Baumi) - SDRNR",
+    "The Easton Ellises - Falcon 69",
+    "The Long Wait - Dark Horses",
+    "The Mountaineering Club - Mallory",
+    "The Sunshine Garcia Band - For I Am The Moon",
+    "Timboz - Pony",
+    "Tom McKenzie - Directions",
+    "Triviul feat. The Fiend - Widow",
+    "We Fell From The Sky - Not You",
+    "Zeno - Signs"
+  ]
+}

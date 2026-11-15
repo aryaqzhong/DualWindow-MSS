@@ -1,0 +1,5 @@
+inherit: base.yaml
+name: D_dual_2p9ms
+stft:
+  n_analysis: 2048   # optional, more aggressive latency
+  n_synthesis: 128   # 2.9 ms algorithmic latency, hop 64

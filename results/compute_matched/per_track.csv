@@ -1,0 +1,301 @@
+config,track,si_sdr_seed_mean
+B_sym256,AM Contra - Heart Peripheral,6.8664810979364415
+B_sym256,Al James - Schoolboy Facination,4.221090708128747
+B_sym256,Angels In Amplifiers - I'm Alright,5.091459259779295
+B_sym256,Arise - Run Run Run,2.1010172606358344
+B_sym256,BKS - Bulldozer,-3.724977850605982
+B_sym256,BKS - Too Much,6.125922566913488
+B_sym256,Ben Carrigan - We'll Talk About It All Tonight,0.1262877345624306
+B_sym256,Bobby Nobody - Stitch Up,3.4521955241212385
+B_sym256,Buitraker - Revo X,1.9309522835988455
+B_sym256,Carlos Gonzalez - A Place For Us,2.801363013669814
+B_sym256,Cristina Vane - So Easy,5.480973557221818
+B_sym256,Detsky Sad - Walkie Talkie,2.3830729890274274
+B_sym256,Enda Reilly - Cur An Long Ag Seol,4.334388966260742
+B_sym256,Forkupines - Semantics,3.083762373025487
+B_sym256,Georgia Wonder - Siren,-0.08440527365139146
+B_sym256,Girls Under Glass - We Feel Alright,1.5960353658931061
+B_sym256,Hollow Ground - Ill Fate,4.910364459617318
+B_sym256,James Elder & Mark M Thompson - The English Actor,4.319976442101483
+B_sym256,Juliet's Rescue - Heartbeats,2.9637748724211965
+B_sym256,Little Chicago's Finest - My Own,5.280533537921887
+B_sym256,Louis Cressy Band - Good Time,4.2451482387624795
+B_sym256,Lyndsey Ollard - Catching Up,9.779269323122598
+B_sym256,M.E.R.C. Music - Knockout,3.772294569252748
+B_sym256,Moosmusic - Big Dummy Shake,4.42990900849685
+B_sym256,Motor Tapes - Shore,2.6314200977658206
+B_sym256,Mu - Too Bright,4.0091413962645195
+B_sym256,Nerve 9 - Pray For The Rain,3.255606285229637
+B_sym256,PR - Happy Daze,-25.87266528056882
+B_sym256,PR - Oh No,-7.08609058254848
+B_sym256,Punkdisco - Oral Hygiene,4.904591836934584
+B_sym256,Raft Monk - Tiring,-0.501311926168638
+B_sym256,Sambasevam Shanmugam - Kaathaadi,7.724132178428077
+B_sym256,Secretariat - Borderline,2.066938508968279
+B_sym256,Secretariat - Over The Top,3.019804544195077
+B_sym256,Side Effects Project - Sing With Me,7.770600491722524
+B_sym256,Signe Jakobsen - What Have You Done To Me,5.822801705684778
+B_sym256,Skelpolu - Resurrection,-4.705260277740463
+B_sym256,Speak Softly - Broken Man,-0.330977461632111
+B_sym256,Speak Softly - Like Horses,1.2925517532509119
+B_sym256,The Doppler Shift - Atrophy,2.73665639194142
+B_sym256,The Easton Ellises (Baumi) - SDRNR,0.6936335029764309
+B_sym256,The Easton Ellises - Falcon 69,1.1228159418028367
+B_sym256,The Long Wait - Dark Horses,3.6136628464466245
+B_sym256,The Mountaineering Club - Mallory,4.453224563975484
+B_sym256,The Sunshine Garcia Band - For I Am The Moon,6.39081722535466
+B_sym256,Timboz - Pony,1.6171574813476302
+B_sym256,Tom McKenzie - Directions,6.016868388172707
+B_sym256,Triviul feat. The Fiend - Widow,4.408006601161089
+B_sym256,We Fell From The Sky - Not You,1.3550359937134993
+B_sym256,Zeno - Signs,2.2991689557255954
+B_sym256_compute,AM Contra - Heart Peripheral,6.477674299656515
+B_sym256_compute,Al James - Schoolboy Facination,4.1264891459916715
+B_sym256_compute,Angels In Amplifiers - I'm Alright,4.371576498135154
+B_sym256_compute,Arise - Run Run Run,1.32816005401043
+B_sym256_compute,BKS - Bulldozer,-6.107511201300735
+B_sym256_compute,BKS - Too Much,5.582408314566201
+B_sym256_compute,Ben Carrigan - We'll Talk About It All Tonight,-0.09728978973609322
+B_sym256_compute,Bobby Nobody - Stitch Up,2.7418497317810857
+B_sym256_compute,Buitraker - Revo X,0.36769753983602105
+B_sym256_compute,Carlos Gonzalez - A Place For Us,2.682020703230755
+B_sym256_compute,Cristina Vane - So Easy,5.079778642653863
+B_sym256_compute,Detsky Sad - Walkie Talkie,1.1362687606474877
+B_sym256_compute,Enda Reilly - Cur An Long Ag Seol,3.912716722088308
+B_sym256_compute,Forkupines - Semantics,2.42112039777837
+B_sym256_compute,Georgia Wonder - Siren,-1.2119989231085948
+B_sym256_compute,Girls Under Glass - We Feel Alright,1.289568820737288
+B_sym256_compute,Hollow Ground - Ill Fate,4.296474809282346
+B_sym256_compute,James Elder & Mark M Thompson - The English Actor,3.5325537568328382
+B_sym256_compute,Juliet's Rescue - Heartbeats,2.902700768785701
+B_sym256_compute,Little Chicago's Finest - My Own,2.704259286978406
+B_sym256_compute,Louis Cressy Band - Good Time,3.7145538281600667
+B_sym256_compute,Lyndsey Ollard - Catching Up,9.580383367216976
+B_sym256_compute,M.E.R.C. Music - Knockout,2.870356286829625
+B_sym256_compute,Moosmusic - Big Dummy Shake,3.3184805514963367
+B_sym256_compute,Motor Tapes - Shore,2.4370709443912224
+B_sym256_compute,Mu - Too Bright,3.304515851282918
+B_sym256_compute,Nerve 9 - Pray For The Rain,3.863415965350743
+B_sym256_compute,PR - Happy Daze,-22.136829496783825
+B_sym256_compute,PR - Oh No,-12.634718014638569
+B_sym256_compute,Punkdisco - Oral Hygiene,4.024116882047208
+B_sym256_compute,Raft Monk - Tiring,0.31795944356112527
+B_sym256_compute,Sambasevam Shanmugam - Kaathaadi,6.5133736742875925
+B_sym256_compute,Secretariat - Borderline,1.892044060110238
+B_sym256_compute,Secretariat - Over The Top,2.1236393532325364
+B_sym256_compute,Side Effects Project - Sing With Me,6.983267565753763
+B_sym256_compute,Signe Jakobsen - What Have You Done To Me,5.617529653564793
+B_sym256_compute,Skelpolu - Resurrection,-5.894000522040809
+B_sym256_compute,Speak Softly - Broken Man,-1.946005021609933
+B_sym256_compute,Speak Softly - Like Horses,1.1180744059704304
+B_sym256_compute,The Doppler Shift - Atrophy,2.1340794551355016
+B_sym256_compute,The Easton Ellises (Baumi) - SDRNR,-0.21293408581279147
+B_sym256_compute,The Easton Ellises - Falcon 69,0.6384897215750597
+B_sym256_compute,The Long Wait - Dark Horses,3.07057836669987
+B_sym256_compute,The Mountaineering Club - Mallory,3.5422142512089416
+B_sym256_compute,The Sunshine Garcia Band - For I Am The Moon,6.184571451114633
+B_sym256_compute,Timboz - Pony,0.5780485873908501
+B_sym256_compute,Tom McKenzie - Directions,4.6869441369356215
+B_sym256_compute,Triviul feat. The Fiend - Widow,3.97381654025441
+B_sym256_compute,We Fell From The Sky - Not You,0.11698333524431634
+B_sym256_compute,Zeno - Signs,1.7970512249744044
+C_dual,AM Contra - Heart Peripheral,6.993093143844778
+C_dual,Al James - Schoolboy Facination,5.073468844335183
+C_dual,Angels In Amplifiers - I'm Alright,5.6428332242854164
+C_dual,Arise - Run Run Run,3.338474029978312
+C_dual,BKS - Bulldozer,-2.918417645107977
+C_dual,BKS - Too Much,7.1921471826626195
+C_dual,Ben Carrigan - We'll Talk About It All Tonight,0.4102925313080097
+C_dual,Bobby Nobody - Stitch Up,4.146238264681383
+C_dual,Buitraker - Revo X,1.83026970768526
+C_dual,Carlos Gonzalez - A Place For Us,3.343032434285814
+C_dual,Cristina Vane - So Easy,6.438415946043705
+C_dual,Detsky Sad - Walkie Talkie,2.091734027030904
+C_dual,Enda Reilly - Cur An Long Ag Seol,5.7392075812377
+C_dual,Forkupines - Semantics,4.1223908142400525
+C_dual,Georgia Wonder - Siren,0.8193749013154766
+C_dual,Girls Under Glass - We Feel Alright,2.077448004915519
+C_dual,Hollow Ground - Ill Fate,5.028673050502807
+C_dual,James Elder & Mark M Thompson - The English Actor,4.545797223321538
+C_dual,Juliet's Rescue - Heartbeats,4.3376819328939655
+C_dual,Little Chicago's Finest - My Own,6.502183397750582
+C_dual,Louis Cressy Band - Good Time,4.805592987545087
+C_dual,Lyndsey Ollard - Catching Up,10.916805424021385
+C_dual,M.E.R.C. Music - Knockout,4.699124037331523
+C_dual,Moosmusic - Big Dummy Shake,4.570152749586001
+C_dual,Motor Tapes - Shore,4.005515893633995
+C_dual,Mu - Too Bright,5.177931178698385
+C_dual,Nerve 9 - Pray For The Rain,5.043801012533631
+C_dual,PR - Happy Daze,-28.119042954257807
+C_dual,PR - Oh No,-9.817148936769613
+C_dual,Punkdisco - Oral Hygiene,5.696580995322101
+C_dual,Raft Monk - Tiring,0.7445537915704381
+C_dual,Sambasevam Shanmugam - Kaathaadi,8.343656080704418
+C_dual,Secretariat - Borderline,2.848146118972276
+C_dual,Secretariat - Over The Top,3.916034011758523
+C_dual,Side Effects Project - Sing With Me,8.339115836326215
+C_dual,Signe Jakobsen - What Have You Done To Me,6.718322748849705
+C_dual,Skelpolu - Resurrection,-4.198483399672363
+C_dual,Speak Softly - Broken Man,0.4056720039130286
+C_dual,Speak Softly - Like Horses,2.126761123565994
+C_dual,The Doppler Shift - Atrophy,3.977870700583644
+C_dual,The Easton Ellises (Baumi) - SDRNR,1.6110768202794739
+C_dual,The Easton Ellises - Falcon 69,0.9231499499775058
+C_dual,The Long Wait - Dark Horses,4.2583694943174315
+C_dual,The Mountaineering Club - Mallory,5.717028367147253
+C_dual,The Sunshine Garcia Band - For I Am The Moon,6.9330415832019785
+C_dual,Timboz - Pony,1.9965143501802387
+C_dual,Tom McKenzie - Directions,6.171648343514043
+C_dual,Triviul feat. The Fiend - Widow,5.354830557035205
+C_dual,We Fell From The Sky - Not You,2.026017218396424
+C_dual,Zeno - Signs,3.033999106034816
+E_sym128,AM Contra - Heart Peripheral,5.303607125862451
+E_sym128,Al James - Schoolboy Facination,4.348113538829126
+E_sym128,Angels In Amplifiers - I'm Alright,5.026112520256294
+E_sym128,Arise - Run Run Run,2.2183130490850473
+E_sym128,BKS - Bulldozer,-3.304918093186008
+E_sym128,BKS - Too Much,5.453977589625359
+E_sym128,Ben Carrigan - We'll Talk About It All Tonight,0.3790143829896737
+E_sym128,Bobby Nobody - Stitch Up,3.1922807215774136
+E_sym128,Buitraker - Revo X,1.884033878504289
+E_sym128,Carlos Gonzalez - A Place For Us,2.3494552873123364
+E_sym128,Cristina Vane - So Easy,5.3011366827628645
+E_sym128,Detsky Sad - Walkie Talkie,2.644651352862452
+E_sym128,Enda Reilly - Cur An Long Ag Seol,4.684784678729718
+E_sym128,Forkupines - Semantics,2.9826637761637302
+E_sym128,Georgia Wonder - Siren,-0.0991719562070525
+E_sym128,Girls Under Glass - We Feel Alright,1.826496340763498
+E_sym128,Hollow Ground - Ill Fate,4.311295175135802
+E_sym128,James Elder & Mark M Thompson - The English Actor,4.2887623838806235
+E_sym128,Juliet's Rescue - Heartbeats,3.8127709585340073
+E_sym128,Little Chicago's Finest - My Own,4.75980015321209
+E_sym128,Louis Cressy Band - Good Time,3.910363062009691
+E_sym128,Lyndsey Ollard - Catching Up,9.422086297300876
+E_sym128,M.E.R.C. Music - Knockout,3.732918792523301
+E_sym128,Moosmusic - Big Dummy Shake,4.701369059703273
+E_sym128,Motor Tapes - Shore,2.4129663841181337
+E_sym128,Mu - Too Bright,4.448214011188549
+E_sym128,Nerve 9 - Pray For The Rain,3.7135568267558527
+E_sym128,PR - Happy Daze,-20.067620667251916
+E_sym128,PR - Oh No,-4.927253496284298
+E_sym128,Punkdisco - Oral Hygiene,3.8371908685901244
+E_sym128,Raft Monk - Tiring,-1.6654700005154794
+E_sym128,Sambasevam Shanmugam - Kaathaadi,5.88425554161064
+E_sym128,Secretariat - Borderline,2.4893289400348513
+E_sym128,Secretariat - Over The Top,3.1462989218560313
+E_sym128,Side Effects Project - Sing With Me,7.665637426104766
+E_sym128,Signe Jakobsen - What Have You Done To Me,5.762046929174845
+E_sym128,Skelpolu - Resurrection,-5.795398330570499
+E_sym128,Speak Softly - Broken Man,-0.4810988965780388
+E_sym128,Speak Softly - Like Horses,0.41985691648216045
+E_sym128,The Doppler Shift - Atrophy,2.5368516561375025
+E_sym128,The Easton Ellises (Baumi) - SDRNR,-0.25000421516790095
+E_sym128,The Easton Ellises - Falcon 69,0.5804590898306823
+E_sym128,The Long Wait - Dark Horses,3.0278213869905644
+E_sym128,The Mountaineering Club - Mallory,4.822242604732489
+E_sym128,The Sunshine Garcia Band - For I Am The Moon,5.671847536900517
+E_sym128,Timboz - Pony,0.6359260067567511
+E_sym128,Tom McKenzie - Directions,5.652239329842118
+E_sym128,Triviul feat. The Fiend - Widow,4.226007418493524
+E_sym128,We Fell From The Sky - Not You,1.0191440609643163
+E_sym128,Zeno - Signs,2.598052738665795
+E_sym128_compute,AM Contra - Heart Peripheral,4.891879614837076
+E_sym128_compute,Al James - Schoolboy Facination,4.443185430182145
+E_sym128_compute,Angels In Amplifiers - I'm Alright,4.091428967472618
+E_sym128_compute,Arise - Run Run Run,0.874439007093933
+E_sym128_compute,BKS - Bulldozer,-5.266766916913346
+E_sym128_compute,BKS - Too Much,4.912599503608149
+E_sym128_compute,Ben Carrigan - We'll Talk About It All Tonight,0.5692731759400866
+E_sym128_compute,Bobby Nobody - Stitch Up,2.4436635895960377
+E_sym128_compute,Buitraker - Revo X,1.0595589006628305
+E_sym128_compute,Carlos Gonzalez - A Place For Us,2.5448698418979525
+E_sym128_compute,Cristina Vane - So Easy,4.757729501747866
+E_sym128_compute,Detsky Sad - Walkie Talkie,0.9603674485460767
+E_sym128_compute,Enda Reilly - Cur An Long Ag Seol,3.9544650968042623
+E_sym128_compute,Forkupines - Semantics,1.596534858124484
+E_sym128_compute,Georgia Wonder - Siren,-1.419493766568272
+E_sym128_compute,Girls Under Glass - We Feel Alright,1.2096808118569515
+E_sym128_compute,Hollow Ground - Ill Fate,3.7087265307666666
+E_sym128_compute,James Elder & Mark M Thompson - The English Actor,3.4164680462959316
+E_sym128_compute,Juliet's Rescue - Heartbeats,2.676909639185165
+E_sym128_compute,Little Chicago's Finest - My Own,2.6051261429444588
+E_sym128_compute,Louis Cressy Band - Good Time,3.359082849099289
+E_sym128_compute,Lyndsey Ollard - Catching Up,9.137277494750922
+E_sym128_compute,M.E.R.C. Music - Knockout,2.633518866617285
+E_sym128_compute,Moosmusic - Big Dummy Shake,3.2537283063485507
+E_sym128_compute,Motor Tapes - Shore,2.3721454182259576
+E_sym128_compute,Mu - Too Bright,3.5342039240247876
+E_sym128_compute,Nerve 9 - Pray For The Rain,4.310986105692582
+E_sym128_compute,PR - Happy Daze,-18.296561250220947
+E_sym128_compute,PR - Oh No,-9.372916741208064
+E_sym128_compute,Punkdisco - Oral Hygiene,3.2905391627260245
+E_sym128_compute,Raft Monk - Tiring,-1.2099406043826266
+E_sym128_compute,Sambasevam Shanmugam - Kaathaadi,5.872915138559602
+E_sym128_compute,Secretariat - Borderline,2.238468009628975
+E_sym128_compute,Secretariat - Over The Top,2.4721721424132834
+E_sym128_compute,Side Effects Project - Sing With Me,6.439172768801716
+E_sym128_compute,Signe Jakobsen - What Have You Done To Me,5.224169559819072
+E_sym128_compute,Skelpolu - Resurrection,-5.978027126459107
+E_sym128_compute,Speak Softly - Broken Man,-2.036124962961124
+E_sym128_compute,Speak Softly - Like Horses,0.6021272119524912
+E_sym128_compute,The Doppler Shift - Atrophy,2.141048655524619
+E_sym128_compute,The Easton Ellises (Baumi) - SDRNR,0.8772236229984285
+E_sym128_compute,The Easton Ellises - Falcon 69,-0.15086437556610444
+E_sym128_compute,The Long Wait - Dark Horses,2.297209938893671
+E_sym128_compute,The Mountaineering Club - Mallory,3.895593353588919
+E_sym128_compute,The Sunshine Garcia Band - For I Am The Moon,5.577181806237213
+E_sym128_compute,Timboz - Pony,-0.26236625811408537
+E_sym128_compute,Tom McKenzie - Directions,4.52403585970305
+E_sym128_compute,Triviul feat. The Fiend - Widow,3.708097972130143
+E_sym128_compute,We Fell From The Sky - Not You,0.29433981797024983
+E_sym128_compute,Zeno - Signs,1.9323327204123113
+D_dual_2p9ms,AM Contra - Heart Peripheral,6.95272386254152
+D_dual_2p9ms,Al James - Schoolboy Facination,5.055468015772325
+D_dual_2p9ms,Angels In Amplifiers - I'm Alright,5.68139287194675
+D_dual_2p9ms,Arise - Run Run Run,2.722428015914753
+D_dual_2p9ms,BKS - Bulldozer,-2.8268257763273676
+D_dual_2p9ms,BKS - Too Much,6.7845808421768865
+D_dual_2p9ms,Ben Carrigan - We'll Talk About It All Tonight,0.3802247158726934
+D_dual_2p9ms,Bobby Nobody - Stitch Up,4.006831984375877
+D_dual_2p9ms,Buitraker - Revo X,1.8416727211932393
+D_dual_2p9ms,Carlos Gonzalez - A Place For Us,3.1737306899601987
+D_dual_2p9ms,Cristina Vane - So Easy,6.329651604397334
+D_dual_2p9ms,Detsky Sad - Walkie Talkie,1.4614971295258463
+D_dual_2p9ms,Enda Reilly - Cur An Long Ag Seol,5.490619301005667
+D_dual_2p9ms,Forkupines - Semantics,3.938666784571547
+D_dual_2p9ms,Georgia Wonder - Siren,0.5059405859625523
+D_dual_2p9ms,Girls Under Glass - We Feel Alright,2.043769734186143
+D_dual_2p9ms,Hollow Ground - Ill Fate,4.628985378072759
+D_dual_2p9ms,James Elder & Mark M Thompson - The English Actor,4.454781774340953
+D_dual_2p9ms,Juliet's Rescue - Heartbeats,4.268927529734777
+D_dual_2p9ms,Little Chicago's Finest - My Own,5.3836783272895925
+D_dual_2p9ms,Louis Cressy Band - Good Time,4.844893033552692
+D_dual_2p9ms,Lyndsey Ollard - Catching Up,10.468657329418974
+D_dual_2p9ms,M.E.R.C. Music - Knockout,4.546583823573583
+D_dual_2p9ms,Moosmusic - Big Dummy Shake,4.293169049188424
+D_dual_2p9ms,Motor Tapes - Shore,3.88026508292353
+D_dual_2p9ms,Mu - Too Bright,5.0275391224898796
+D_dual_2p9ms,Nerve 9 - Pray For The Rain,5.018393273070501
+D_dual_2p9ms,PR - Happy Daze,-40.12527234015515
+D_dual_2p9ms,PR - Oh No,-6.062568720827126
+D_dual_2p9ms,Punkdisco - Oral Hygiene,5.2763201827251125
+D_dual_2p9ms,Raft Monk - Tiring,0.5091942187384753
+D_dual_2p9ms,Sambasevam Shanmugam - Kaathaadi,7.99809897182661
+D_dual_2p9ms,Secretariat - Borderline,3.026052972624096
+D_dual_2p9ms,Secretariat - Over The Top,4.030561776973357
+D_dual_2p9ms,Side Effects Project - Sing With Me,8.03202579699605
+D_dual_2p9ms,Signe Jakobsen - What Have You Done To Me,6.354361622289463
+D_dual_2p9ms,Skelpolu - Resurrection,-3.6755189159547785
+D_dual_2p9ms,Speak Softly - Broken Man,0.272617889628647
+D_dual_2p9ms,Speak Softly - Like Horses,1.4787246329100558
+D_dual_2p9ms,The Doppler Shift - Atrophy,3.8386006439236753
+D_dual_2p9ms,The Easton Ellises (Baumi) - SDRNR,1.804925109654636
+D_dual_2p9ms,The Easton Ellises - Falcon 69,0.7376138488019583
+D_dual_2p9ms,The Long Wait - Dark Horses,3.958806152938301
+D_dual_2p9ms,The Mountaineering Club - Mallory,5.527948096928441
+D_dual_2p9ms,The Sunshine Garcia Band - For I Am The Moon,6.696889365817407
+D_dual_2p9ms,Timboz - Pony,1.8039660596318234
+D_dual_2p9ms,Tom McKenzie - Directions,6.322201653425493
+D_dual_2p9ms,Triviul feat. The Fiend - Widow,4.818530218858939
+D_dual_2p9ms,We Fell From The Sky - Not You,1.8636407072541359
+D_dual_2p9ms,Zeno - Signs,3.124801593710832

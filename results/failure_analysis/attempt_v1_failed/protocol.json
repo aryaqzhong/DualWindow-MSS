@@ -1,0 +1,73 @@
+{
+  "code": {
+    "dwmss/data.py": "ac485255e29bbb1259b9ccd2e402fba8d534e68fecd6bc50dcfa6cfa34488dac",
+    "dwmss/failure_analysis.py": "49ecc248a63ecd7b4b9c8ed1fb5db44e4848e604069284433e26b4579158f74f",
+    "dwmss/metrics.py": "67fe24bb1d9fda3f23406638c5224f981b08508ac77bf2d555c253b48266c2bf",
+    "dwmss/model.py": "fcf9d8a86cf3f79008bb5605eab745ea78b65f2803539ec7a23decd1b58b9321",
+    "dwmss/stft.py": "833cf3ff79f5b8d304e5532b8bcede96d40e88f85892de2f24e207b8080d85cf",
+    "scripts/analyze_failures.py": "c4999f0612fb3fc7c7d8b50a0c06ecd065ceabd36a3dae11e2566d815b668916"
+  },
+  "code_sha256": "ad33900a58fec5ab35b8811036cf9ea71d9a814ab5e0649245e35dd71d6496c3",
+  "protocol": {
+    "activity": {
+      "block_samples": 44100,
+      "conditions_relative_db_floor_dbfs": [
+        [
+          30.0,
+          -60.0
+        ],
+        [
+          40.0,
+          -60.0
+        ],
+        [
+          50.0,
+          -60.0
+        ],
+        [
+          40.0,
+          -50.0
+        ],
+        [
+          40.0,
+          -70.0
+        ]
+      ],
+      "criterion": "reference vocal block RMS >= max(peak block RMS - relative_db, floor)",
+      "floor_dbfs": -60.0,
+      "primary_relative_db": 40.0,
+      "scoring": "concatenate selected samples after full-song inference",
+      "sensitivity_floor_dbfs": [
+        -50.0,
+        -70.0
+      ],
+      "sensitivity_relative_db": [
+        30.0,
+        50.0
+      ],
+      "short_final_block": "included with actual sample count"
+    },
+    "bootstrap": {
+      "draws": 10000,
+      "seed": 0,
+      "unit": "songs after averaging seed metrics"
+    },
+    "case_selection": "five lowest full-song paired differences plus positive-gain 25/50/75th ranked quantiles, from frozen saved eval",
+    "configs": [
+      "B_sym256",
+      "C_dual",
+      "E_sym128",
+      "D_dual_2p9ms"
+    ],
+    "decomposition": "mixture-predicted mask applied unchanged to vocal and combined accompaniment",
+    "full_song_metric_tolerance_db": 0.02,
+    "inference": "full continuous song; GRU state carried over 4096-frame chunks",
+    "sample_rate": 44100,
+    "seeds": [
+      0,
+      1
+    ],
+    "version": 1
+  },
+  "protocol_sha256": "7ac259ccea48bb431f7613ed882ee52c04d07007b8ce6a86f6e846948a1f58e4"
+}

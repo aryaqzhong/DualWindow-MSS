@@ -1,0 +1,20 @@
+{
+ "run": "runs/A_sym1024_seed0",
+ "ckpt": "best.pt",
+ "step": 155000,
+ "config": "A_sym1024",
+ "n_tracks": 50,
+ "subset": "test",
+ "si_sdr_median": 4.643072720823012,
+ "si_sdr_mean": 3.6387150692226076,
+ "usdr_median": 5.9009855197126,
+ "usdr_mean": 5.4769160788604605,
+ "si_sdr_mixture_median": -5.845997650834553,
+ "si_sdr_mixture_mean": -6.711000737583976,
+ "si_sdri_median": 10.528371890123974,
+ "si_sdri_mean": 10.349715806806584,
+ "oracle_irm2_si_sdr_median": 9.952928434991673,
+ "oracle_irm2_si_sdr_mean": 9.940437626005302,
+ "oracle_irm2_usdr_median": 10.354155958393406,
+ "oracle_irm2_usdr_mean": 10.391415501271855
+}

@@ -1,0 +1,35 @@
+{
+  "additional_source_hashes": {
+    "scripts/recipe_check_fp32.py": "b446dee1eeea735cca864480113fd58a3a92797e258732a855663a224ac2f676",
+    "slurm/evaluate_recipe_check_fp32.sbatch": "bef6f98e715bc20901abe43e26accf1698ff05592227a813e1eea4be5748ab6f"
+  },
+  "created_utc": "2026-11-09T22:23:46.012886+00:00",
+  "numerical_audit_hashes": {
+    "results/failure_analysis_numerics/audit.json": "533ca6793a00ca28aa9e7073cf48b6c0d13bf2c58d60896bfa9a3c7575449efe",
+    "results/failure_analysis_numerics/provenance.json": "2231f14890b8c65a01dd0363e6f963a25b0a8e53e593e679f9062e14e657d959",
+    "results/failure_analysis_numerics/summary.md": "818b02e023d500b27b9a124928ad6db4ab0c94baa624f22f1ee027571c4d7002"
+  },
+  "original_design_sha256": "6790f77fff29242e0617422c4a617594dfd485b6a0993384bf038faa174ace0b",
+  "precision_policy": {
+    "cudnn_allow_tf32": false,
+    "matmul_allow_tf32": false
+  },
+  "preserved": [
+    "original design.json and frozen source hashes",
+    "all training/configuration settings",
+    "two candidate learning rates per family",
+    "two seeds and 200000 updates",
+    "validation-only selection criterion and 1e-9 tie rule",
+    "reuse of frozen original evaluations"
+  ],
+  "pretest_absence_proof": {
+    "checked_selected_eval_directory": "results/recipe_check/eval",
+    "checked_selection_path": "results/recipe_check/selection.json",
+    "selected_test_artifacts_absent": true,
+    "selection_absent": true,
+    "verified_utc": "2026-11-09T22:23:46.012886+00:00"
+  },
+  "reason": "CPU/CUDA numerical audit found cuDNN TF32 affected near-orthogonal estimates; disable TF32 before new selected-test inference",
+  "schema_version": 1,
+  "scope": "evaluation-only FP32 precision amendment; training and validation selection unchanged"
+}

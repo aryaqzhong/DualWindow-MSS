@@ -1,0 +1,16 @@
+{
+  "design_sha256": "6790f77fff29242e0617422c4a617594dfd485b6a0993384bf038faa174ace0b",
+  "outputs": {
+    "paired.csv": "81b035753550dd724c851c36cff4e0817a44331c46335a0d86da9e0609b18f4e",
+    "per_track.csv": "a05590dd88676f15e4a741104a8b4f6b3fee67e98eebe1f58291de3f1fee45d1",
+    "summary.csv": "8361392c5f3db2671d516b710ebcb081cf276b65198f23c554a2c6c95bdcfb72",
+    "summary.md": "f718fa0a97674b6d0aa31a539273425833d1c16033d2869c631ffb7f642dbad2"
+  },
+  "selected_evaluations": {
+    "eval/E_sym128_compute_lr3e4_seed0_test.csv": "b62b4a3324d1db3cff9261b925cfb1ee1208b818219f0810ae240045e94996be",
+    "eval/E_sym128_compute_lr3e4_seed0_test.json": "a4e673c2cfb09b89c18ed1d1c0a288826e9f7645fb84b369ed0568525e982494",
+    "eval/E_sym128_compute_lr3e4_seed1_test.csv": "93b8888c98d96e20489442101c64319a03b43132de20162631902f4cc85fbb90",
+    "eval/E_sym128_compute_lr3e4_seed1_test.json": "ca7a41493aeec66ef774d1f1dd15531c66b5a3017e6adf1f340a78d3b59cf055"
+  },
+  "selection_sha256": "88df9bb350caa8d2aa92abdc4f4806804a147985c908fdd4d4de21d4a4ce79d9"
+}

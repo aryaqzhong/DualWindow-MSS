@@ -1,0 +1,19 @@
+{
+  "audit_source_sha256": "a11f95ae363818e07037bd379c16c27e43ff0d609f0989a8832a34a95448a04a",
+  "checkpoints": {
+    "C_dual_seed0": {
+      "checkpoint_sha256": "3cf556a74f50d53055648d8f3a91fcb23dd30408baefe27edaae3bd6fe66a851",
+      "saved_eval_sha256": "6a7de9626811f8272b7ec405f833b8f3a6aa022dbec9db1756a681a871d511cb"
+    },
+    "C_dual_seed1": {
+      "checkpoint_sha256": "7c848a8011ae07663bb676baa6da73cfe662cc2230edde899f2f5acc69fd5e05",
+      "saved_eval_sha256": "8d6c85d975308bd4d189bb6b6261cae2b0e93fc68f7c8f04e408822098cd6016"
+    }
+  },
+  "current_source_matches": true,
+  "outputs": {
+    "audit.csv": "206e3f34db78b6b7add041db7c70508bbb7122065f8b111e009bb4ccd740cd33",
+    "audit.json": "533ca6793a00ca28aa9e7073cf48b6c0d13bf2c58d60896bfa9a3c7575449efe",
+    "summary.md": "818b02e023d500b27b9a124928ad6db4ab0c94baa624f22f1ee027571c4d7002"
+  }
+}

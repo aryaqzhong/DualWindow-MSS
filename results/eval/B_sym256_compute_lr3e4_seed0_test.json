@@ -1,0 +1,16 @@
+{
+ "run": "runs/B_sym256_compute_lr3e4_seed0",
+ "ckpt": "best.pt",
+ "step": 105000,
+ "config": "B_sym256_compute_lr3e4",
+ "n_tracks": 50,
+ "subset": "test",
+ "si_sdr_median": 3.653029712121877,
+ "si_sdr_mean": 3.081700520602664,
+ "usdr_median": 5.202862585229322,
+ "usdr_mean": 5.094214159642276,
+ "si_sdr_mixture_median": -5.845997650834553,
+ "si_sdr_mixture_mean": -6.711000737583976,
+ "si_sdri_median": 9.751534988357175,
+ "si_sdri_mean": 9.792701258186643
+}

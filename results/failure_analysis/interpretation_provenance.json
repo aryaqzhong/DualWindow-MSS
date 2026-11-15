@@ -1,0 +1,13 @@
+{
+  "inputs": {
+    "cases.csv": "232e930c3ba4930a9de79f3de2332c214b177296399a970b3cfe811423c240ec",
+    "cases.json": "41f4c7d440935f249c3c44ae2e3436633e1d15f34af1e4a32613267f79a91dc2",
+    "paired.csv": "c8c27fc73e96598b91493ab279650a68848cf034a26e074e4f5eda657f9cb5d8",
+    "per_track.csv": "bda29963cc9fc589a77fa2763afbecf6bf6f305cb7917765cd31308c9bd69652",
+    "summary.md": "e42fe856ae5c88378799954ea0277fb8a55af284c427d99e267c75f47d24dbb3"
+  },
+  "output": {
+    "interpretation.md": "23548113d3a77f684ba699921756579daf401557425c6e937d7f6b852ca84025"
+  },
+  "scope": "manual interpretation of completed 8-run, 50-song, 5-condition diagnostic"
+}

@@ -1,0 +1,9 @@
+{
+  "config": "E_sym128_compute",
+  "seed": 0,
+  "checkpoint_path": "runs/E_sym128_compute_seed0/best.pt",
+  "evaluation_step": 15000,
+  "checkpoint_sha256": "23b8f35278ffd83f0d888e45d15926986011928e06f678f0014c708ff331b30d",
+  "csv_sha256": "8280a673b394870ed2123e5808df6492ab4b35704b8eebe68915905f691b4b09",
+  "json_sha256": "8d7538166c114c9b5af549e6d2a1dcf57246e0f22df5a44c564940a9f81ad04d"
+}

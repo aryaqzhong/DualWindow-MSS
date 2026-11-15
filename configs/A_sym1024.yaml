@@ -1,0 +1,5 @@
+inherit: base.yaml
+name: A_sym1024
+stft:
+  n_analysis: 1024   # 23.2 ms algorithmic latency, hop 512
+  n_synthesis: 1024

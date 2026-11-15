@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Checkpoints and job logs: large; the evaluated numbers live in results/
+runs/
+logs/
+
+# Regenerable caches and smoke tests
+results/**/cache/
+results/*smoke*/
+results/eval/smoke_*
+
+# Retired demo renders: CC BY derivatives of songs no longer on the demo page, kept locally for rollback only
+results/demo_replacement/retired_*/
+results/demo_falling_restore/retired_*/
+
+# Run logs (machine paths and hostnames)
+*.log
+
+# Local data folders (MUSDB18-HQ, demo source stems): obtain separately, not distributed
+/data/

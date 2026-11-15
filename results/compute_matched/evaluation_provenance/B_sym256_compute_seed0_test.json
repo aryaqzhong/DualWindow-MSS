@@ -1,0 +1,9 @@
+{
+  "config": "B_sym256_compute",
+  "seed": 0,
+  "checkpoint_path": "runs/B_sym256_compute_seed0/best.pt",
+  "evaluation_step": 180000,
+  "checkpoint_sha256": "d127aeffc677702265cbb326501b3a724b04648f98c41d29be08dd72e542f82e",
+  "csv_sha256": "c91c12a53aaac34f0a37cd4d4307673cb87504f426b3a1a8eb1ac9d95e78275b",
+  "json_sha256": "9fdf755717a0d06aa004e678658b9a71ca5b86db787a08e8f923d250604f0313"
+}

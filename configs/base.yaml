@@ -1,0 +1,30 @@
+# Shared settings for all window configurations. Initial values; not yet tuned.
+data:
+  musdb_root: data/musdb18hq
+  seconds: 3.0          # training crop length
+  p_remix: 0.5          # probability that every stem comes from a random track/offset
+  gain_db: [-6.0, 3.0]  # per-stem random gain
+  p_bleed: 0.2          # probability of a vocal-dominant "live mic" mixture
+  bleed_db: [6.0, 20.0] # accompaniment attenuation in that case
+model:
+  n_bands: 64
+  c1: 16
+  c2: 32
+  hidden: 256
+  head_hidden: 32
+loss:
+  resolutions: [[512, 128], [1024, 256], [2048, 512]]
+  wave_weight: 10.0
+  power: 0.3
+train:
+  batch_size: 16
+  lr: 1.0e-3
+  weight_decay: 1.0e-2
+  warmup_steps: 2000
+  max_steps: 200000
+  min_lr_ratio: 0.01
+  grad_clip: 5.0
+  num_workers: 8
+  log_every: 100
+  val_every: 5000
+  max_hours: 23.0

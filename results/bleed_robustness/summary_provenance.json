@@ -1,0 +1,1 @@
+{"bootstrap_resamples": 10000, "bootstrap_seed": 0, "excerpt_manifest_id": "cdd99b3b6fdfbb35b9a38ed696896b5f8061a8725c69638c0ab8393ed76d5a4c", "included_configs": ["B_sym256", "C_dual", "D_dual_2p9ms", "E_sym128"], "incomplete_runs": [], "protocol_id": "f2c6c349c6fb34972e5c1b36b6cea913a1e7ffc13066057bcb7280183940fbdf", "songs": 50}

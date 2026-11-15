@@ -1,0 +1,145 @@
+{
+  "choices": {
+    "dual": "D_dual_2p9ms",
+    "wide_short": "E_sym128_compute_lr3e4"
+  },
+  "created_utc": "2026-11-11T17:55:39.386050+00:00",
+  "criterion": "mean_of_seed_best_validation_medians",
+  "design_sha256": "6790f77fff29242e0617422c4a617594dfd485b6a0993384bf038faa174ace0b",
+  "run_identities": {
+    "D_dual_2p9ms_lr3e4_seed0": {
+      "best_step": 165000,
+      "best_validation_median": 3.9987344674723566,
+      "config": "D_dual_2p9ms_lr3e4",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "c4e826c1b19c62ddfa150ad0405a2f70babce12f9e8c56be084507cd01d2d6b1",
+        "last.pt": "ec63e70104300ed97f138c40e0f64ece4da745ef237a1f6c92f3bdfb91a2ec03",
+        "log.jsonl": "97966d2de635cf0d57cf09787aa7478594c2541ac965981ea491f9643e22d758",
+        "meta.json": "7151d412ab8a11d4af0202429f6f98e0cf665828956ac23b77234683c795df94"
+      },
+      "run": "runs/D_dual_2p9ms_lr3e4_seed0",
+      "seed": 0
+    },
+    "D_dual_2p9ms_lr3e4_seed1": {
+      "best_step": 130000,
+      "best_validation_median": 4.0396419665931065,
+      "config": "D_dual_2p9ms_lr3e4",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "7ae9ae528a561e4c17856a2f5da3a3115494e3b61fb91264545c162480848ae6",
+        "last.pt": "6c630859ab0b70bdf82f428811c23c70c451f906adbf03c98666ad850a7eb323",
+        "log.jsonl": "82b53e9926a60cdc2eecc305d34fed9481fbd783f0c4af34d099c5a454cad3af",
+        "meta.json": "8053058d898f648721515eadf7724630ad9634523a61add8d669ecd777440ed6"
+      },
+      "run": "runs/D_dual_2p9ms_lr3e4_seed1",
+      "seed": 1
+    },
+    "D_dual_2p9ms_seed0": {
+      "best_step": 145000,
+      "best_validation_median": 4.323975714166691,
+      "config": "D_dual_2p9ms",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "6befd477627ff0acbd2cd19f2675395dff7668c8c5a0233874ed4c9e6a241912",
+        "last.pt": "f87f1667fed692812b8ff8e099bc9fcc6254288a451d02108a48072986bc8b07",
+        "log.jsonl": "1373a6f5859caea57e897d2029c7ee2a907a3ae222b31230ccd0147ec39b11cd",
+        "meta.json": "839a62fcdc1e884c2823220fed262170e818cb49da98001c01a5dc2cbb08ea2f"
+      },
+      "run": "runs/D_dual_2p9ms_seed0",
+      "seed": 0
+    },
+    "D_dual_2p9ms_seed1": {
+      "best_step": 195000,
+      "best_validation_median": 4.1405079243630505,
+      "config": "D_dual_2p9ms",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "671135610ca96b5ded362c156908925466c35760d51ee5cddff8a77a3e996f3c",
+        "last.pt": "2da7422860b514ba61649f6d26069339a248525bde3523c8bbd0803eadaca018",
+        "log.jsonl": "ed3d9a4537078632a913ee79aa2a1e9d5f946da92e688236c5cafa1d284b8f63",
+        "meta.json": "6417bb020d2f6a62b8ecb65644fe0c19b9283e85bfacbe0d4f206722ffabfd5a"
+      },
+      "run": "runs/D_dual_2p9ms_seed1",
+      "seed": 1
+    },
+    "E_sym128_compute_lr3e4_seed0": {
+      "best_step": 175000,
+      "best_validation_median": 3.5532139682266903,
+      "config": "E_sym128_compute_lr3e4",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "e82a640f86d51b1514cde175faabb1df0c2d5fd2a5154341f3fa2aaa1a17da30",
+        "last.pt": "9c64e5e22f8b7c16fa279227d5d8fb0a4364a12c19038003c73616f42e88b4f1",
+        "log.jsonl": "3e6658b828441fb536509f6f8005cc7db0f7aada39f98d1c5d9ede09f6da1e3b",
+        "meta.json": "f544dc3a8860ecf1cf6b27eb0c8630ffb446da76ed83cee2adf164bab7f2af9c"
+      },
+      "run": "runs/E_sym128_compute_lr3e4_seed0",
+      "seed": 0
+    },
+    "E_sym128_compute_lr3e4_seed1": {
+      "best_step": 145000,
+      "best_validation_median": 3.61824024471352,
+      "config": "E_sym128_compute_lr3e4",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "ad7b2b994f6d41e86dba3b4c7770e0bd674264421989cd07653c154d2dd7d936",
+        "last.pt": "f3c19a79eab427946c68a06d8a59ec484e7bf777e149d88b7b02bcd3a9f61aa6",
+        "log.jsonl": "9adc535e4445770c3ec7bacc1752251920d888cd50ef43ed950d3ea2eea9acfc",
+        "meta.json": "11e95c5df5b946ed1544a95ab5af4fb5e99aa3273c82f5ce96ae4875d6f641dc"
+      },
+      "run": "runs/E_sym128_compute_lr3e4_seed1",
+      "seed": 1
+    },
+    "E_sym128_compute_seed0": {
+      "best_step": 15000,
+      "best_validation_median": 2.8808556552501683,
+      "config": "E_sym128_compute",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "23b8f35278ffd83f0d888e45d15926986011928e06f678f0014c708ff331b30d",
+        "last.pt": "597d3b62b8cca150ffefbc8d225cd89c44204d79f614cff3ef608a9364134866",
+        "log.jsonl": "df4e0f5a0322d2776d40be3f12b3d45577146fdc726674fdae266939bb2ceceb",
+        "meta.json": "9bef31fc0b956b55ca743235f4dee8b874776be6c18a15f9da633581a3dc9e56"
+      },
+      "run": "runs/E_sym128_compute_seed0",
+      "seed": 0
+    },
+    "E_sym128_compute_seed1": {
+      "best_step": 20000,
+      "best_validation_median": 2.9969804774756925,
+      "config": "E_sym128_compute",
+      "hashes": {
+        "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+        "best.pt": "531e7f7e1bd8d156ba193fccbb938841b4f6ba5888a3d904f9e647e75aea59eb",
+        "last.pt": "9b8abfce5fc61343414f44ebfc267651503a6b38e88c7e53cc794de336007e26",
+        "log.jsonl": "34f03357e716b1fbbbc2f28b467556aea9b88f498e2490ef432382ec526f380b",
+        "meta.json": "60badaadd8b1f96a23370955a3135c9dde8041f66a09b388d401188cd1982616"
+      },
+      "run": "runs/E_sym128_compute_seed1",
+      "seed": 1
+    }
+  },
+  "scores": {
+    "dual": {
+      "D_dual_2p9ms": [
+        4.323975714166691,
+        4.1405079243630505
+      ],
+      "D_dual_2p9ms_lr3e4": [
+        3.9987344674723566,
+        4.0396419665931065
+      ]
+    },
+    "wide_short": {
+      "E_sym128_compute": [
+        2.8808556552501683,
+        2.9969804774756925
+      ],
+      "E_sym128_compute_lr3e4": [
+        3.5532139682266903,
+        3.61824024471352
+      ]
+    }
+  }
+}

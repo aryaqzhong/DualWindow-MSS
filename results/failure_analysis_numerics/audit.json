@@ -1,0 +1,108 @@
+{
+  "cuda": "13.2",
+  "cudnn_benchmark": false,
+  "cudnn_deterministic": false,
+  "default_cudnn_tf32": true,
+  "default_matmul_tf32": false,
+  "gpu": "NVIDIA A100-PCIE-40GB",
+  "rows": [
+    {
+      "method": "original_separate_cpu",
+      "run": "C_dual_seed0",
+      "saved_si_sdr": -25.755736312632806,
+      "saved_usdr": -0.35119949360392894,
+      "seconds": 10.661263599991798,
+      "si_sdr": -25.75573649222068,
+      "usdr": -0.3511995134074506
+    },
+    {
+      "max_abs_vs_cpu": 0.0006084665656089783,
+      "max_abs_vs_previous_gpu": null,
+      "method": "original_separate_cuda_repeat0",
+      "relative_l2_vs_cpu": 0.0020045247142598775,
+      "run": "C_dual_seed0",
+      "seconds": 1.152773250010796,
+      "si_sdr": -25.78508882001129,
+      "usdr": -0.35171989740449683
+    },
+    {
+      "max_abs_vs_cpu": 0.0006084665656089783,
+      "max_abs_vs_previous_gpu": 0.0,
+      "method": "original_separate_cuda_repeat1",
+      "relative_l2_vs_cpu": 0.0020045247142598775,
+      "run": "C_dual_seed0",
+      "seconds": 0.8674143259995617,
+      "si_sdr": -25.78508882001129,
+      "usdr": -0.35171989740449683
+    },
+    {
+      "decomposition_max_abs": 5.721039997297339e-08,
+      "decomposition_relative_rms": 2.6276718857642517e-07,
+      "max_abs_vs_original_gpu": 0.0,
+      "method": "failure_decompose_cuda",
+      "run": "C_dual_seed0",
+      "seconds": 0.9482726739952341,
+      "si_sdr": -25.78508882001129,
+      "usdr": -0.35171989740449683
+    },
+    {
+      "max_abs_vs_cpu": 2.1960586309432983e-05,
+      "method": "original_separate_cuda_tf32_disabled",
+      "relative_l2_vs_cpu": 7.829210296010793e-05,
+      "run": "C_dual_seed0",
+      "seconds": 0.9151087190257385,
+      "si_sdr": -25.755179487836788,
+      "usdr": -0.3511915306127714
+    },
+    {
+      "method": "original_separate_cpu",
+      "run": "C_dual_seed1",
+      "saved_si_sdr": -30.482349595882813,
+      "saved_usdr": -1.430799164653841,
+      "seconds": 11.198356576962397,
+      "si_sdr": -30.482349693930793,
+      "usdr": -1.4307991948818328
+    },
+    {
+      "max_abs_vs_cpu": 0.0006595104932785034,
+      "max_abs_vs_previous_gpu": null,
+      "method": "original_separate_cuda_repeat0",
+      "relative_l2_vs_cpu": 0.0013731917345257126,
+      "run": "C_dual_seed1",
+      "seconds": 0.875085751991719,
+      "si_sdr": -30.476702801791337,
+      "usdr": -1.4306307205731472
+    },
+    {
+      "max_abs_vs_cpu": 0.0006595104932785034,
+      "max_abs_vs_previous_gpu": 0.0,
+      "method": "original_separate_cuda_repeat1",
+      "relative_l2_vs_cpu": 0.0013731917345257126,
+      "run": "C_dual_seed1",
+      "seconds": 0.7988264840096235,
+      "si_sdr": -30.476702801791337,
+      "usdr": -1.4306307205731472
+    },
+    {
+      "decomposition_max_abs": 8.027927833609283e-08,
+      "decomposition_relative_rms": 2.5240898623974616e-07,
+      "max_abs_vs_original_gpu": 0.0,
+      "method": "failure_decompose_cuda",
+      "run": "C_dual_seed1",
+      "seconds": 0.8627643270301633,
+      "si_sdr": -30.476702801791337,
+      "usdr": -1.4306307205731472
+    },
+    {
+      "max_abs_vs_cpu": 2.3417174816131592e-05,
+      "method": "original_separate_cuda_tf32_disabled",
+      "relative_l2_vs_cpu": 3.782059660320242e-05,
+      "run": "C_dual_seed1",
+      "seconds": 0.7778065740130842,
+      "si_sdr": -30.482236011445195,
+      "usdr": -1.430803518403494
+    }
+  ],
+  "source_sha256": "a11f95ae363818e07037bd379c16c27e43ff0d609f0989a8832a34a95448a04a",
+  "torch": "2.15.0+cu132"
+}

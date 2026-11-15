@@ -1,0 +1,16 @@
+{
+ "run": "runs/C_dual_h64_seed0",
+ "ckpt": "best.pt",
+ "step": 190000,
+ "config": "C_dual_h64",
+ "n_tracks": 50,
+ "subset": "test",
+ "si_sdr_median": 3.8156679156422078,
+ "si_sdr_mean": 2.7408827690304864,
+ "usdr_median": 5.313461786148059,
+ "usdr_mean": 4.85314299787743,
+ "si_sdr_mixture_median": -5.845997650834553,
+ "si_sdr_mixture_mean": -6.711000737583976,
+ "si_sdri_median": 9.795004380407088,
+ "si_sdri_mean": 9.451883506614465
+}

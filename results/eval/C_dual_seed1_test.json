@@ -1,0 +1,20 @@
+{
+ "run": "runs/C_dual_seed1",
+ "ckpt": "best.pt",
+ "step": 190000,
+ "config": "C_dual",
+ "n_tracks": 50,
+ "subset": "test",
+ "si_sdr_median": 4.164439533806934,
+ "si_sdr_mean": 3.0446178710756415,
+ "usdr_median": 5.557655403112925,
+ "usdr_mean": 5.245355578531672,
+ "si_sdr_mixture_median": -5.845997650834553,
+ "si_sdr_mixture_mean": -6.711000737583976,
+ "si_sdri_median": 10.175835020717132,
+ "si_sdri_mean": 9.75561860865962,
+ "oracle_irm2_si_sdr_median": 9.245310182161305,
+ "oracle_irm2_si_sdr_mean": 9.236083116967684,
+ "oracle_irm2_usdr_median": 9.538091737468616,
+ "oracle_irm2_usdr_mean": 9.574210291402157
+}

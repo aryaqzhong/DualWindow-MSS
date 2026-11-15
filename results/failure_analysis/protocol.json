@@ -1,0 +1,78 @@
+{
+  "code": {
+    "dwmss/data.py": "ac485255e29bbb1259b9ccd2e402fba8d534e68fecd6bc50dcfa6cfa34488dac",
+    "dwmss/failure_analysis.py": "49ecc248a63ecd7b4b9c8ed1fb5db44e4848e604069284433e26b4579158f74f",
+    "dwmss/metrics.py": "67fe24bb1d9fda3f23406638c5224f981b08508ac77bf2d555c253b48266c2bf",
+    "dwmss/model.py": "fcf9d8a86cf3f79008bb5605eab745ea78b65f2803539ec7a23decd1b58b9321",
+    "dwmss/stft.py": "833cf3ff79f5b8d304e5532b8bcede96d40e88f85892de2f24e207b8080d85cf",
+    "scripts/analyze_failures.py": "010e555ba66f294915d86b59746d4b2f08cb4ae405ce747cbd59bf89ea28996b"
+  },
+  "code_sha256": "6eb3402c82a47bc6394fc1cd81e317e5ed28336bffb907ae8b06e8f31b00fdff",
+  "protocol": {
+    "activity": {
+      "block_samples": 44100,
+      "conditions_relative_db_floor_dbfs": [
+        [
+          30.0,
+          -60.0
+        ],
+        [
+          40.0,
+          -60.0
+        ],
+        [
+          50.0,
+          -60.0
+        ],
+        [
+          40.0,
+          -50.0
+        ],
+        [
+          40.0,
+          -70.0
+        ]
+      ],
+      "criterion": "reference vocal block RMS >= max(peak block RMS - relative_db, floor)",
+      "floor_dbfs": -60.0,
+      "primary_relative_db": 40.0,
+      "scoring": "concatenate selected samples after full-song inference",
+      "sensitivity_floor_dbfs": [
+        -50.0,
+        -70.0
+      ],
+      "sensitivity_relative_db": [
+        30.0,
+        50.0
+      ],
+      "short_final_block": "included with actual sample count"
+    },
+    "bootstrap": {
+      "draws": 10000,
+      "seed": 0,
+      "unit": "songs after averaging seed metrics"
+    },
+    "case_selection": "five lowest full-song paired differences plus positive-gain 25/50/75th ranked quantiles, from frozen saved eval",
+    "configs": [
+      "B_sym256",
+      "C_dual",
+      "E_sym128",
+      "D_dual_2p9ms"
+    ],
+    "decomposition": "mixture-predicted mask applied unchanged to vocal and combined accompaniment",
+    "full_song_metric_tolerance_db": 0.02,
+    "gpu_precision": {
+      "cudnn_allow_tf32": false,
+      "matmul_allow_tf32": false,
+      "reason": "legacy evaluation used CPU; numerical audit identified TF32 convolution rounding on near-orthogonal estimates"
+    },
+    "inference": "full continuous song; GRU state carried over 4096-frame chunks",
+    "sample_rate": 44100,
+    "seeds": [
+      0,
+      1
+    ],
+    "version": 2
+  },
+  "protocol_sha256": "7f93c0b1b4ddeb7fef1e2f230f6379da4c92b692ac460bc8b8d75c755f94272b"
+}

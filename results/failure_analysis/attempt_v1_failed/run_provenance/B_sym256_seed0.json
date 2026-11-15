@@ -1,0 +1,12 @@
+{
+  "checkpoint_sha256": "dcf43834ed9603eb3dabd73baf915f72a3859654acf3b7e06796ae05c2e6d68c",
+  "checkpoint_step": 55000,
+  "code_sha256": "ad33900a58fec5ab35b8811036cf9ea71d9a814ab5e0649245e35dd71d6496c3",
+  "config": "B_sym256",
+  "device": "cuda",
+  "protocol_sha256": "7ac259ccea48bb431f7613ed882ee52c04d07007b8ce6a86f6e846948a1f58e4",
+  "saved_eval_sha256": "b867b4b81354bbbd93a32d91236e7f79129e3e48eb1e969bc831c03a9f8d492f",
+  "seed": 0,
+  "slurm_job_id": "redacted",
+  "torch": "2.15.0+cu132"
+}

@@ -1,0 +1,14 @@
+{
+  "best_step": 175000,
+  "best_validation_median": 3.5532139682266903,
+  "config": "E_sym128_compute_lr3e4",
+  "hashes": {
+    "DONE": "ca0af8670f0bf9a7b659805e21945a8e768b97c0303c636a80c7b2f895e858f4",
+    "best.pt": "e82a640f86d51b1514cde175faabb1df0c2d5fd2a5154341f3fa2aaa1a17da30",
+    "last.pt": "9c64e5e22f8b7c16fa279227d5d8fb0a4364a12c19038003c73616f42e88b4f1",
+    "log.jsonl": "3e6658b828441fb536509f6f8005cc7db0f7aada39f98d1c5d9ede09f6da1e3b",
+    "meta.json": "f544dc3a8860ecf1cf6b27eb0c8630ffb446da76ed83cee2adf164bab7f2af9c"
+  },
+  "run": "runs/E_sym128_compute_lr3e4_seed0",
+  "seed": 0
+}

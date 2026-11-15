@@ -1,0 +1,5 @@
+# Capacity experiment: identical to C_dual.yaml except the GRU width (hidden 256 -> 128).
+inherit: C_dual.yaml
+name: C_dual_h128
+model:
+  hidden: 128

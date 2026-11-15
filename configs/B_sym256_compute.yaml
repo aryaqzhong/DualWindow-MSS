@@ -1,0 +1,6 @@
+# MAC-matched to C_dual before training; scripts/select_compute_matched.py.
+# Fixed grid 256:8:1024, nearest MAC count: +0.2565% vs 5.838 MMAC/frame.
+inherit: B_sym256.yaml
+name: B_sym256_compute
+model:
+  hidden: 776

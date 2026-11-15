@@ -1,0 +1,21 @@
+rank_within_model,config,latency_ms,scenario,song,dry_si_sdr,path_si_sdr,path_minus_dry_db
+1,B_sym256,5.8,synthetic_room,Tom McKenzie - Directions,11.72308371720277,11.185110394732654,-0.5379733224701173
+2,B_sym256,5.8,filtered_delay,Speak Softly - Like Horses,6.90522041643729,6.374891687034262,-0.5303287294030277
+3,B_sym256,5.8,synthetic_room,Hollow Ground - Ill Fate,14.908436798672987,14.425607386459681,-0.4828294122133059
+4,B_sym256,5.8,filtered_delay,Little Chicago's Finest - My Own,10.895636331747028,10.416163831723747,-0.4794725000232809
+5,B_sym256,5.8,synthetic_room,Angels In Amplifiers - I'm Alright,10.31951840698896,9.871149479702204,-0.44836892728675615
+1,C_dual,5.8,synthetic_room,Tom McKenzie - Directions,12.201990533388885,11.427973089320343,-0.7740174440685426
+2,C_dual,5.8,filtered_delay,Little Chicago's Finest - My Own,11.257147053481585,10.649865871766377,-0.6072811817152086
+3,C_dual,5.8,synthetic_room,Skelpolu - Resurrection,4.056432277929099,3.571823953447614,-0.4846083244814854
+4,C_dual,5.8,synthetic_room,Angels In Amplifiers - I'm Alright,10.984633979469537,10.551202238348363,-0.4334317411211739
+5,C_dual,5.8,synthetic_room,The Mountaineering Club - Mallory,14.565925702755685,14.149057049821515,-0.41686865293416986
+1,E_sym128,2.9,synthetic_room,Angels In Amplifiers - I'm Alright,10.134190093989023,9.692258477793427,-0.4419316161955962
+2,E_sym128,2.9,filtered_delay,Little Chicago's Finest - My Own,9.740028034430939,9.301139406844051,-0.43888862758688774
+3,E_sym128,2.9,synthetic_room,M.E.R.C. Music - Knockout,9.998826336031453,9.57101612883172,-0.42781020719973206
+4,E_sym128,2.9,filtered_delay,Carlos Gonzalez - A Place For Us,5.772523388795994,5.426529801330461,-0.3459935874655331
+5,E_sym128,2.9,filtered_delay,Sambasevam Shanmugam - Kaathaadi,12.280844410938986,11.951578661031533,-0.32926574990745294
+1,D_dual_2p9ms,2.9,synthetic_room,Tom McKenzie - Directions,12.230045662652865,11.651912732605505,-0.5781329300473601
+2,D_dual_2p9ms,2.9,filtered_delay,Little Chicago's Finest - My Own,9.99328639274657,9.438652805136016,-0.5546335876105548
+3,D_dual_2p9ms,2.9,filtered_delay,AM Contra - Heart Peripheral,13.02653630525728,12.516251451365846,-0.5102848538914326
+4,D_dual_2p9ms,2.9,synthetic_room,Little Chicago's Finest - My Own,9.99328639274657,9.610795532885597,-0.3824908598609742
+5,D_dual_2p9ms,2.9,synthetic_room,Angels In Amplifiers - I'm Alright,10.688089895658125,10.308810301497559,-0.37927959416056645

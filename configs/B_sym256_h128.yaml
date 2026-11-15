@@ -1,0 +1,5 @@
+# Capacity experiment: identical to B_sym256.yaml except the GRU width (hidden 256 -> 128).
+inherit: B_sym256.yaml
+name: B_sym256_h128
+model:
+  hidden: 128

@@ -1,0 +1,25 @@
+{
+  "artifacts_sha256": {
+    "fig_bleed_paths_change.png": "e548158bc7057b53caad9c32af8c2e7312231e30a06357bbdea2768b4796851f",
+    "fig_bleed_paths_quality.png": "67e9a55d555553316e4ef9cc1b8681e2d6af4ab089a292f01aa8d3a81fffc056",
+    "worst_path_changes.csv": "43a2912f2053d06a05083f3bdb07df43a2c1f00fe42b12ca663caad224908092"
+  },
+  "case_selection": "Smallest 5 path-minus-dry SI-SDR changes per model, across both transformed paths; ties by song then path. Descriptive post-hoc selection, not held-out evaluation. Positive changes are improvements, even if ranked here.",
+  "ci_source": "Saved paired song-bootstrap intervals; no recomputation or training-seed uncertainty.",
+  "configs": [
+    "B_sym256",
+    "C_dual",
+    "E_sym128",
+    "D_dual_2p9ms"
+  ],
+  "excerpt_manifest_id": "cdd99b3b6fdfbb35b9a38ed696896b5f8061a8725c69638c0ab8393ed76d5a4c",
+  "inputs_sha256": {
+    "paired_comparisons.csv": "b9ca5e0653e16be8b721f7b3a636c1c96e67ea2045e096197716120aa362eb1f",
+    "per_song.csv": "d9b1c146533ee67dfb08ff8f2a00b0df07b94397ec6bda9566f15765d2a2d5f3",
+    "summary_provenance.json": "4c727c5c5956f7f115289283cfc978707e1c3f526910929c800f41ca9710d979"
+  },
+  "partial_smoke": false,
+  "plotter_sha256": "9373110c7303def5ef2c6a2e70f7131912acd78934a134fcf362c9c499cbb0e4",
+  "protocol_id": "f2c6c349c6fb34972e5c1b36b6cea913a1e7ffc13066057bcb7280183940fbdf",
+  "songs": 50
+}

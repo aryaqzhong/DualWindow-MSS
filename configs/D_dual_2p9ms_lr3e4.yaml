@@ -1,0 +1,5 @@
+# The identical extra learning-rate setting for the dual-window comparator.
+inherit: D_dual_2p9ms.yaml
+name: D_dual_2p9ms_lr3e4
+train:
+  lr: 3.0e-4
